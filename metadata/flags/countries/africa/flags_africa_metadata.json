@@ -1,0 +1,371 @@
+{
+  "image": "algeria_flag.png",
+  "category": "flags",
+  "answer": "Algeria",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "angola_flag.png",
+  "category": "flags",
+  "answer": "Angola",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "benin_flag.png",
+  "category": "flags",
+  "answer": "Benin",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "botswana_flag.png",
+  "category": "flags",
+  "answer": "Botswana",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "burkina_faso_flag.png",
+  "category": "flags",
+  "answer": "Burkina Faso",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "burundi_flag.png",
+  "category": "flags",
+  "answer": "Burundi",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "cabo_verde_flag.png",
+  "category": "flags",
+  "answer": "Cabo Verde" or "Cape Verde",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "cameroon_flag.png",
+  "category": "flags",
+  "answer": "Cameroon",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "central_african_republic_flag.png",
+  "category": "flags",
+  "answer": "Central African Republic",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "chad_flag.png",
+  "category": "flags",
+  "answer": "Chad",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "congo_flag.png",
+  "category": "flags",
+  "answer": "Congo" or "Republic of the Congo",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "democratic_republic_of_the_congo_flag.png",
+  "category": "flags",
+  "answer": "Democratic Republic of the Congo" or "DRC",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "djibouti_flag.png",
+  "category": "flags",
+  "answer": "Djibouti",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "egypt_flag.png",
+  "category": "flags",
+  "answer": "Egypt",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "equatorial_guinea_flag.png",
+  "category": "flags",
+  "answer": "Equatorial Guinea",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "eritrea_flag.png",
+  "category": "flags",
+  "answer": "Eritrea",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "eswatini_flag.png",
+  "category": "flags",
+  "answer": "Eswatini",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "ethiopia_flag.png",
+  "category": "flags",
+  "answer": "Ethiopia",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "gabon_flag.png",
+  "category": "flags",
+  "answer": "Gabon",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "gambia_flag.png",
+  "category": "flags",
+  "answer": "Gambia" or "The Gambia",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "ghana_flag.png",
+  "category": "flags",
+  "answer": "Ghana",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "guinea_flag.png",
+  "category": "flags",
+  "answer": "Guinea",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "guinea_bissau_flag.png",
+  "category": "flags",
+  "answer": "Guinea-Bissau",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "ivory_coast_flag.png",
+  "category": "flags",
+  "answer": "Ivory Coast" or "Cote d'Ivoire",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "kenya_flag.png",
+  "category": "flags",
+  "answer": "Kenya",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "lesotho_flag.png",
+  "category": "flags",
+  "answer": "Lesotho",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "liberia_flag.png",
+  "category": "flags",
+  "answer": "Liberia",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "libya_flag.png",
+  "category": "flags",
+  "answer": "Libya",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "madagascar_flag.png",
+  "category": "flags",
+  "answer": "Madagascar",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "malawi_flag.png",
+  "category": "flags",
+  "answer": "Malawi",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "mali_flag.png",
+  "category": "flags",
+  "answer": "Mali",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "mauritania_flag.png",
+  "category": "flags",
+  "answer": "Mauritania",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "mauritius_flag.png",
+  "category": "flags",
+  "answer": "Mauritius",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "morocco_flag.png",
+  "category": "flags",
+  "answer": "Morocco",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "mozambique_flag.png",
+  "category": "flags",
+  "answer": "Mozambique",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "namibia_flag.png",
+  "category": "flags",
+  "answer": "Namibia",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "niger_flag.png",
+  "category": "flags",
+  "answer": "Niger",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "nigeria_flag.png",
+  "category": "flags",
+  "answer": "Nigeria",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "rwanda_flag.png",
+  "category": "flags",
+  "answer": "Rwanda",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "sao_tome_and_principe_flag.png",
+  "category": "flags",
+  "answer": "Sao Tome and Principe",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "senegal_flag.png",
+  "category": "flags",
+  "answer": "Senegal",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "seychelles_flag.png",
+  "category": "flags",
+  "answer": "Seychelles",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "sierra_leone_flag.png",
+  "category": "flags",
+  "answer": "Sierra Leone",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "somalia_flag.png",
+  "category": "flags",
+  "answer": "Somalia",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "south_africa_flag.png",
+  "category": "flags",
+  "answer": "South Africa",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "south_sudan_flag.png",
+  "category": "flags",
+  "answer": "South Sudan",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "sudan_flag.png",
+  "category": "flags",
+  "answer": "Sudan",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "tanzania_flag.png",
+  "category": "flags",
+  "answer": "Tanzania",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "togo_flag.png",
+  "category": "flags",
+  "answer": "Togo",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "tunisia_flag.png",
+  "category": "flags",
+  "answer": "Tunisia",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "uganda_flag.png",
+  "category": "flags",
+  "answer": "Uganda",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "zambia_flag.png",
+  "category": "flags",
+  "answer": "Zambia",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
+{
+  "image": "zimbabwe_flag.png",
+  "category": "flags",
+  "answer": "Zimbabwe",
+  "continent": "Africa",
+  "question_type": "identify_country"
+}
