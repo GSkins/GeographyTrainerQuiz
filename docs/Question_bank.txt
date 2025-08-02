@@ -1,0 +1,35 @@
+Question bank
+
+** Key: {} used as placeholders for images, [] used as placeholders for text
+
+Flags:
+What country's flag is this? {image of flag}
+What state's flag is this? {image of flag}
+
+Languages:
+What language is this letter from? {image of letter}
+Which countries use these letters? {image of letters}
+
+Google Cars:
+What clolour is the Google car in [country]?
+What country is [google car feature] on the Google car?
+
+Telephone Poles:
+What country is this telephone pole found in? {image of telephone pole}
+
+Currencies:
+What currency is this? {image of currency}
+What country is this currency in? {image of currency}
+
+Bollards:
+What country is this bollard found in? {image of bollard}
+
+Street Signs:
+What country is this street sign found in? {image of street sign}
+
+Landmarks:
+What country is this landmark found in? {image of landmark}
+
+Botany/Trees:
+Which countries are these trees commonly found in? {image of tree}
+Which countries are these plants commonly found in? {image of plant}
