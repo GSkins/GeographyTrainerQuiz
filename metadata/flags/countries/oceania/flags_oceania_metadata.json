@@ -1,1 +1,98 @@
-
+{
+  "image": "australia_flag.png",
+  "category": "flags",
+  "answer": "Australia",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "fiji_flag.png",
+  "category": "flags",
+  "answer": "Fiji",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "kiribati_flag.png",
+  "category": "flags",
+  "answer": "Kiribati",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "marshall_islands_flag.png",
+  "category": "flags",
+  "answer": "Marshall Islands",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "micronesia_flag.png",
+  "category": "flags",
+  "answer": "Micronesia",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "nauru_flag.png",
+  "category": "flags",
+  "answer": "Nauru",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "new_zealand_flag.png",
+  "category": "flags",
+  "answer": "New Zealand",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "palau_flag.png",
+  "category": "flags",
+  "answer": "Palau",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "papua_new_guinea_flag.png",
+  "category": "flags",
+  "answer": "Papua New Guinea",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "samoa_flag.png",
+  "category": "flags",
+  "answer": "Samoa",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "solomon_islands_flag.png",
+  "category": "flags",
+  "answer": "Solomon Islands",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "tonga_flag.png",
+  "category": "flags",
+  "answer": "Tonga",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "tuvalu_flag.png",
+  "category": "flags",
+  "answer": "Tuvalu",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
+{
+  "image": "vanuatu_flag.png",
+  "category": "flags",
+  "answer": "Vanuatu",
+  "continent": "Oceania",
+  "question_type": "identify_country"
+}
