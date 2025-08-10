@@ -1,0 +1,12 @@
+{
+  "country": "Turkey",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Istanbul", "population": 14804116, "rank": 1 },
+    { "name": "Ankara", "population": 3517182, "rank": 2 },
+    { "name": "Izmir", "population": 2500603, "rank": 3 },
+    { "name": "Bursa", "population": 1412701, "rank": 4 },
+    { "name": "Adana", "population": 1248988, "rank": 5 }
+  ]
+}
