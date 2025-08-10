@@ -1,0 +1,12 @@
+{
+  "country": "Cyprus",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Nicosia", "population": 200452, "rank": 1 },
+    { "name": "Limassol", "population": 154000, "rank": 2 },
+    { "name": "Larnaca", "population": 72000, "rank": 3 },
+    { "name": "Famagusta", "population": 42526, "rank": 4 },
+    { "name": "Paphos", "population": 35961, "rank": 5 }
+  ]
+}
