@@ -1,0 +1,12 @@
+{
+  "country": "Bahrain",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Manama", "population": 147074, "rank": 1 },
+    { "name": "Al Muharraq", "population": 97458, "rank": 2 },
+    { "name": "Ar Rifa'", "population": 79550, "rank": 3 },
+    { "name": "Dar Kulayb", "population": 65466, "rank": 4 },
+    { "name": "Madinat Hamad", "population": 52718, "rank": 5 }
+  ]
+}
