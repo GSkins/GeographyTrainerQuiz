@@ -1,0 +1,12 @@
+{
+  "country": "Thailand",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bangkok", "population": 5782159, "rank": 1 },
+    { "name": "Nonthaburi", "population": 270609, "rank": 2 },
+    { "name": "Nakhon Ratchasima", "population": 174332, "rank": 3 },
+    { "name": "Chiang Mai", "population": 174235, "rank": 4 },
+    { "name": "Hat Yai", "population": 157467, "rank": 5 }
+  ]
+}
