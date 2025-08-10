@@ -1,0 +1,12 @@
+{
+  "country": "Tanzania",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Dar es Salaam", "population": 4364541, "rank": 1 },
+    { "name": "Mwanza", "population": 706543, "rank": 2 },
+    { "name": "Arusha", "population": 416442, "rank": 3 },
+    { "name": "Mbeya", "population": 385279, "rank": 4 },
+    { "name": "Dodoma", "population": 213636, "rank": 5 }
+  ]
+}
