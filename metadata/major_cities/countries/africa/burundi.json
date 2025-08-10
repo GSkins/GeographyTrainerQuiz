@@ -1,0 +1,12 @@
+{
+  "country": "Burundi",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bujumbura", "population": 1124166, "rank": 1 },
+    { "name": "Gitega", "population": 125944, "rank": 2 },
+    { "name": "Muyinga", "population": 95609, "rank": 3 },
+    { "name": "Ngozi", "population": 86844, "rank": 4 },
+    { "name": "Ruyigi", "population": 77139, "rank": 5 }
+  ]
+}
