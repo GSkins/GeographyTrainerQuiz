@@ -1,0 +1,12 @@
+{
+  "country": "Eritrea",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Asmara", "population": 563930, "rank": 1 },
+    { "name": "Keren", "population": 74800, "rank": 2 },
+    { "name": "Massawa", "population": 23100, "rank": 3 },
+    { "name": "Assab", "population": 21300, "rank": 4 },
+    { "name": "Mendefera", "population": 17781, "rank": 5 }
+  ]
+}
