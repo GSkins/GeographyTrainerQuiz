@@ -1,0 +1,12 @@
+{
+  "country": "Georgia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Tbilisi", "population": 1299018, "rank": 1 },
+    { "name": "Kutaisi", "population": 198806, "rank": 2 },
+    { "name": "Batumi", "population": 166420, "rank": 3 },
+    { "name": "Rustavi", "population": 123802, "rank": 4 },
+    { "name": "Sukhumi", "population": 62914, "rank": 5 }
+  ]
+}
