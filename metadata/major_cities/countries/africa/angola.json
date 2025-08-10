@@ -1,0 +1,12 @@
+{
+  "country": "Angola",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Luanda", "population": 2776168, "rank": 1 },
+    { "name": "N'dalatando", "population": 383100, "rank": 2 },
+    { "name": "Huambo", "population": 226145, "rank": 3 },
+    { "name": "Lobito", "population": 207932, "rank": 4 },
+    { "name": "Benguela", "population": 151226, "rank": 5 }
+  ]
+}
