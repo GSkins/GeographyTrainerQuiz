@@ -1,0 +1,12 @@
+{
+  "country": "Morocco",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Casablanca", "population": 3144909, "rank": 1 },
+    { "name": "Rabat", "population": 1655753, "rank": 2 },
+    { "name": "Fes", "population": 964891, "rank": 3 },
+    { "name": "Salé", "population": 903485, "rank": 4 },
+    { "name": "Marrakesh", "population": 839296, "rank": 5 }
+  ]
+}
