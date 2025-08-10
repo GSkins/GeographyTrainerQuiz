@@ -1,0 +1,12 @@
+{
+  "country": "Botswana",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Gaborone", "population": 246325, "rank": 1 },
+    { "name": "Francistown", "population": 103417, "rank": 2 },
+    { "name": "Mogoditshane", "population": 88004, "rank": 3 },
+    { "name": "Maun", "population": 85350, "rank": 4 },
+    { "name": "Molepolole", "population": 74861, "rank": 5 }
+  ]
+}
