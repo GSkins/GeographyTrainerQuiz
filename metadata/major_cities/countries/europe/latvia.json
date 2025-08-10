@@ -1,0 +1,12 @@
+{
+  "country": "Latvia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Riga", "population": 591882, "rank": 1 },
+    { "name": "Daugavpils", "population": 78112, "rank": 2 },
+    { "name": "Liepāja", "population": 67398, "rank": 3 },
+    { "name": "Jelgava", "population": 54821, "rank": 4 },
+    { "name": "Jūrmala", "population": 51933, "rank": 5 }
+  ]
+}
