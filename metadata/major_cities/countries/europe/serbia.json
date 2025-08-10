@@ -1,0 +1,12 @@
+{
+  "country": "Serbia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Belgrade", "population": 1273651, "rank": 1 },
+    { "name": "Niš", "population": 250000, "rank": 2 },
+    { "name": "Novi Sad", "population": 215400, "rank": 3 },
+    { "name": "Zemun", "population": 155591, "rank": 4 },
+    { "name": "Kragujevac", "population": 147473, "rank": 5 }
+  ]
+}
