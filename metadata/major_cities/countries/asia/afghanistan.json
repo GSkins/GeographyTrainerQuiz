@@ -1,0 +1,12 @@
+{
+  "country": "Afghanistan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kabul", "population": 3043532, "rank": 1 },
+    { "name": "Kandahar", "population": 391190, "rank": 2 },
+    { "name": "Mazar-e Sharif", "population": 303282, "rank": 3 },
+    { "name": "Herat", "population": 272806, "rank": 4 },
+    { "name": "Jalalabad", "population": 200331, "rank": 5 }
+  ]
+}
