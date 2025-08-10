@@ -1,0 +1,12 @@
+{
+  "country": "Cabo Verde",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Praia", "population": 130271, "rank": 1 },
+    { "name": "Mindelo", "population": 69904, "rank": 2 },
+    { "name": "Santa Maria", "population": 25000, "rank": 3 },
+    { "name": "Espargos", "population": 17081, "rank": 4 },
+    { "name": "Assomada", "population": 12332, "rank": 5 }
+  ]
+}
