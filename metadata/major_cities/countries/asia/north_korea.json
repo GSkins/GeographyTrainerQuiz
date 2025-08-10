@@ -1,0 +1,12 @@
+{
+  "country": "North Korea",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Pyongyang", "population": 3255288, "rank": 1 },
+    { "name": "Hamhung", "population": 768551, "rank": 2 },
+    { "name": "Chongjin", "population": 667929, "rank": 3 },
+    { "name": "Nampo", "population": 366341, "rank": 4 },
+    { "name": "Wonsan", "population": 363127, "rank": 5 }
+  ]
+}
