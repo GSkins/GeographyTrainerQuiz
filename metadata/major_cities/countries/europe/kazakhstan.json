@@ -1,0 +1,12 @@
+{
+  "country": "Kazakhstan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Almaty", "population": 2161797, "rank": 1 },
+    { "name": "Astana", "population": 1354507, "rank": 2 },
+    { "name": "Shymkent", "population": 1192120, "rank": 3 },
+    { "name": "Aktobe", "population": 559911, "rank": 4 },
+    { "name": "Karaganda", "population": 515632, "rank": 5 }
+  ]
+}
