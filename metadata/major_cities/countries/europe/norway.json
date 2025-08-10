@@ -1,0 +1,12 @@
+{
+  "country": "Norway",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Oslo", "population": 1082575, "rank": 1 },
+    { "name": "Bergen", "population": 269548, "rank": 2 },
+    { "name": "Stavanger/Sandnes", "population": 234757, "rank": 3 },
+    { "name": "Trondheim", "population": 196948, "rank": 4 },
+    { "name": "Drammen", "population": 122955, "rank": 5 }
+  ]
+}
