@@ -1,0 +1,12 @@
+{
+  "country": "Sri Lanka",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Colombo", "population": 648034, "rank": 1 },
+    { "name": "Dehiwala-Mount Lavinia", "population": 219827, "rank": 2 },
+    { "name": "Moratuwa", "population": 185031, "rank": 3 },
+    { "name": "Jaffna", "population": 169102, "rank": 4 },
+    { "name": "Negombo", "population": 137223, "rank": 5 }
+  ]
+}
