@@ -1,0 +1,12 @@
+{
+  "country": "Belgium",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Brussels", "population": 1019022, "rank": 1 },
+    { "name": "Antwerp", "population": 459805, "rank": 2 },
+    { "name": "Ghent", "population": 231493, "rank": 3 },
+    { "name": "Charleroi", "population": 200132, "rank": 4 },
+    { "name": "Liège", "population": 182597, "rank": 5 }
+  ]
+}
