@@ -1,0 +1,12 @@
+{
+  "country": "Syria",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Aleppo", "population": 1602264, "rank": 1 },
+    { "name": "Damascus", "population": 1569394, "rank": 2 },
+    { "name": "Homs", "population": 775404, "rank": 3 },
+    { "name": "Hamah", "population": 460602, "rank": 4 },
+    { "name": "Latakia", "population": 340181, "rank": 5 }
+  ]
+}
