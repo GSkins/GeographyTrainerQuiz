@@ -1,0 +1,12 @@
+{
+  "country": "Qatar",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Doha", "population": 2380000, "rank": 1 },
+    { "name": "Al Rayyan", "population": 272465, "rank": 2 },
+    { "name": "Umm Salal", "population": 29391, "rank": 3 },
+    { "name": "Al Wakrah", "population": 26436, "rank": 4 },
+    { "name": "Al Khor", "population": 18923, "rank": 5 }
+  ]
+}
