@@ -1,0 +1,12 @@
+{
+  "country": "Seychelles",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Victoria", "population": 22881, "rank": 1 },
+    { "name": "Perseverance", "population": 6209, "rank": 2 },
+    { "name": "Anse Boileau", "population": 4183, "rank": 3 },
+    { "name": "Bel Ombre", "population": 4163, "rank": 4 },
+    { "name": "Beau Vallon", "population": 4142, "rank": 5 }
+  ]
+}
