@@ -1,0 +1,12 @@
+{
+  "country": "Austria",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Vienna", "population": 1982097, "rank": 1 },
+    { "name": "Graz", "population": 298479, "rank": 2 },
+    { "name": "Linz", "population": 210118, "rank": 3 },
+    { "name": "Salzburg", "population": 155619, "rank": 4 },
+    { "name": "Innsbruck", "population": 131358, "rank": 5 }
+  ]
+}
