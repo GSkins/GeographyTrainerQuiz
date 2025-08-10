@@ -1,0 +1,8 @@
+{
+  "country": "Vatican City",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Vatican City", "population": 829, "rank": 1 }
+  ]
+}
