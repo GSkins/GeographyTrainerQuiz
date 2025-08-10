@@ -1,0 +1,12 @@
+{
+  "country": "Ghana",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Accra", "population": 1963264, "rank": 1 },
+    { "name": "Kumasi", "population": 1468609, "rank": 2 },
+    { "name": "Tamale", "population": 360579, "rank": 3 },
+    { "name": "Takoradi", "population": 232919, "rank": 4 },
+    { "name": "Atsiaman", "population": 202932, "rank": 5 }
+  ]
+}
