@@ -1,0 +1,12 @@
+{
+  "country": "Libya",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Tripoli", "population": 1150989, "rank": 1 },
+    { "name": "Benghazi", "population": 650629, "rank": 2 },
+    { "name": "Misrata", "population": 386120, "rank": 3 },
+    { "name": "Tarhuna", "population": 210697, "rank": 4 },
+    { "name": "Al Khums", "population": 201943, "rank": 5 }
+  ]
+}
