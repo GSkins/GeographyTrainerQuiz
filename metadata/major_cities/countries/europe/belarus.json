@@ -1,0 +1,12 @@
+{
+  "country": "Belarus",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Minsk", "population": 1994796, "rank": 1 },
+    { "name": "Gomel", "population": 526872, "rank": 2 },
+    { "name": "Mogilev", "population": 374644, "rank": 3 },
+    { "name": "Vitebsk", "population": 366299, "rank": 4 },
+    { "name": "Grodno", "population": 356557, "rank": 5 }
+  ]
+}
