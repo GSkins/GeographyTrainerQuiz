@@ -1,0 +1,12 @@
+{
+  "country": "Czechia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Prague", "population": 1397880, "rank": 1 },
+    { "name": "Brno", "population": 402739, "rank": 2 },
+    { "name": "Ostrava", "population": 283187, "rank": 3 },
+    { "name": "Plzeň", "population": 187928, "rank": 4 },
+    { "name": "Liberec", "population": 108090, "rank": 5 }
+  ]
+}
