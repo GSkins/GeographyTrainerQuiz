@@ -1,0 +1,12 @@
+{
+  "country": "Equatorial Guinea",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bata", "population": 173046, "rank": 1 },
+    { "name": "Malabo", "population": 155963, "rank": 2 },
+    { "name": "Ebebiyín", "population": 24831, "rank": 3 },
+    { "name": "Aconibe", "population": 11192, "rank": 4 },
+    { "name": "Añisoc", "population": 10191, "rank": 5 }
+  ]
+}
