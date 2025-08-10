@@ -1,0 +1,12 @@
+{
+  "country": "South Africa",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Johannesburg", "population": 4434827, "rank": 1 },
+    { "name": "Cape Town", "population": 3740026, "rank": 2 },
+    { "name": "Ethekwini (Durban)", "population": 3442361, "rank": 3 },
+    { "name": "Ekurhuleni", "population": 3178470, "rank": 4 },
+    { "name": "Tshwane (Pretoria)", "population": 2921488, "rank": 5 }
+  ]
+}
