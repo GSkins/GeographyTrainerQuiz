@@ -1,0 +1,12 @@
+{
+  "country": "Iraq",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Baghdad", "population": 7216000, "rank": 1 },
+    { "name": "Basrah", "population": 2600000, "rank": 2 },
+    { "name": "Mosul", "population": 1739800, "rank": 3 },
+    { "name": "Erbil", "population": 932800, "rank": 4 },
+    { "name": "Sulaymaniyah", "population": 723170, "rank": 5 }
+  ]
+}
