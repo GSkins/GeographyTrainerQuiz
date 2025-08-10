@@ -1,0 +1,12 @@
+{
+  "country": "Guinea",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Camayenne", "population": 1871242, "rank": 1 },
+    { "name": "Conakry", "population": 1767200, "rank": 2 },
+    { "name": "Nzérékoré", "population": 132728, "rank": 3 },
+    { "name": "Kindia", "population": 117062, "rank": 4 },
+    { "name": "Kankan", "population": 114009, "rank": 5 }
+  ]
+}
