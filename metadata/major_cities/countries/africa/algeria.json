@@ -1,0 +1,12 @@
+{
+  "country": "Algeria",
+  "category": "major_cities"
+  "question_type": "identify_cities"
+  "cities": [
+    { "name": "Algiers", "population": 1977663, "rank": 1 },
+    { "name": "Boumerdas", "population": 786499, "rank": 2 },
+    { "name": "Oran", "population": 645984, "rank": 3 },
+    { "name": "Tebessa", "population": 634332, "rank": 4 },
+    { "name": "Constantine", "population": 450097, "rank": 5 }
+  ]
+}
