@@ -1,0 +1,12 @@
+{
+  "country": "Hungary",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Budapest", "population": 1741041, "rank": 1 },
+    { "name": "Debrecen", "population": 204124, "rank": 2 },
+    { "name": "Miskolc", "population": 172637, "rank": 3 },
+    { "name": "Szeged", "population": 164883, "rank": 4 },
+    { "name": "Pécs", "population": 156649, "rank": 5 }
+  ]
+}
