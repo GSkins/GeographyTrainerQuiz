@@ -1,0 +1,12 @@
+{
+  "country": "China",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Chongqing", "population": 31910000, "rank": 1 },
+    { "name": "Shanghai", "population": 24870000, "rank": 2 },
+    { "name": "Beijing", "population": 21860000, "rank": 3 },
+    { "name": "Chengdu", "population": 21403000, "rank": 4 },
+    { "name": "Guangzhou", "population": 18827000, "rank": 5 }
+  ]
+}
