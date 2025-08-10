@@ -1,0 +1,12 @@
+{
+  "country": "Tunisia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Tunis", "population": 1056247, "rank": 1 },
+    { "name": "Sfax", "population": 330440, "rank": 2 },
+    { "name": "Sousse", "population": 271428, "rank": 3 },
+    { "name": "Ettadhamen", "population": 196298, "rank": 4 },
+    { "name": "Kairouan", "population": 186653, "rank": 5 }
+  ]
+}
