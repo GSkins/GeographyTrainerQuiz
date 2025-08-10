@@ -1,0 +1,12 @@
+{
+  "country": "Poland",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Warsaw", "population": 1753977, "rank": 1 },
+    { "name": "Kraków", "population": 765320, "rank": 2 },
+    { "name": "Łódź", "population": 696503, "rank": 3 },
+    { "name": "Wrocław", "population": 637683, "rank": 4 },
+    { "name": "Poznań", "population": 540372, "rank": 5 }
+  ]
+}
