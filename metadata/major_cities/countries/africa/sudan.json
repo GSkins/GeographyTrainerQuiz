@@ -1,0 +1,12 @@
+{
+  "country": "Sudan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Khartoum", "population": 1974647, "rank": 1 },
+    { "name": "Omdurman", "population": 1200000, "rank": 2 },
+    { "name": "Nyala", "population": 565734, "rank": 3 },
+    { "name": "Port Sudan", "population": 489725, "rank": 4 },
+    { "name": "Kassala", "population": 401477, "rank": 5 }
+  ]
+}
