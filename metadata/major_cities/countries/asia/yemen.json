@@ -1,0 +1,12 @@
+{
+  "country": "Yemen",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Sana'a", "population": 1937451, "rank": 1 },
+    { "name": "Al Hudaydah", "population": 617871, "rank": 2 },
+    { "name": "Taiz", "population": 615222, "rank": 3 },
+    { "name": "Aden", "population": 550602, "rank": 4 },
+    { "name": "Mukalla", "population": 258132, "rank": 5 }
+  ]
+}
