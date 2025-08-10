@@ -1,0 +1,12 @@
+{
+  "country": "Japan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Tokyo", "population": 8336599, "rank": 1 },
+    { "name": "Yokohama", "population": 3574443, "rank": 2 },
+    { "name": "Osaka", "population": 2592413, "rank": 3 },
+    { "name": "Nagoya", "population": 2191279, "rank": 4 },
+    { "name": "Sapporo", "population": 1883027, "rank": 5 }
+  ]
+}
