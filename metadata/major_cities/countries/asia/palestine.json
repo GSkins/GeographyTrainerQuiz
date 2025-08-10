@@ -1,0 +1,12 @@
+{
+  "country": "Palestine",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "East Jerusalem", "population": 428304, "rank": 1 },
+    { "name": "Gaza City", "population": 410000, "rank": 2 },
+    { "name": "Khan Yunis", "population": 173183, "rank": 3 },
+    { "name": "Jabalia", "population": 168568, "rank": 4 },
+    { "name": "Hebron", "population": 160470, "rank": 5 }
+  ]
+}
