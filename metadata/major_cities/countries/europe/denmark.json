@@ -1,0 +1,12 @@
+{
+  "country": "Denmark",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Copenhagen", "population": 1363296, "rank": 1 },
+    { "name": "Aarhus", "population": 290598, "rank": 2 },
+    { "name": "Odense", "population": 182387, "rank": 3 },
+    { "name": "Aalborg", "population": 120914, "rank": 4 },
+    { "name": "Esbjerg", "population": 71921, "rank": 5 }
+  ]
+}
