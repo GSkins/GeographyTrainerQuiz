@@ -1,0 +1,12 @@
+{
+  "country": "Armenia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Yerevan", "population": 1136300, "rank": 1 },
+    { "name": "Gyumri", "population": 114800, "rank": 2 },
+    { "name": "Vanadzor", "population": 78400, "rank": 3 },
+    { "name": "Abovyan", "population": 50600, "rank": 4 },
+    { "name": "Vagharshapat", "population": 44837, "rank": 5 }
+  ]
+}
