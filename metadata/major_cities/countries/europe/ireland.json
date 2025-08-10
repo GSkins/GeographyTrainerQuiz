@@ -1,0 +1,12 @@
+{
+  "country": "Ireland",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Dublin", "population": 592713, "rank": 1 },
+    { "name": "Cork", "population": 222333, "rank": 2 },
+    { "name": "Limerick", "population": 102287, "rank": 3 },
+    { "name": "Galway", "population": 85910, "rank": 4 },
+    { "name": "Waterford", "population": 60079, "rank": 5 }
+  ]
+}
