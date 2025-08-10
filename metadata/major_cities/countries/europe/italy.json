@@ -1,0 +1,12 @@
+{
+  "country": "Italy",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Rome", "population": 2746984, "rank": 1 },
+    { "name": "Milan", "population": 1366155, "rank": 2 },
+    { "name": "Naples", "population": 908082, "rank": 3 },
+    { "name": "Turin", "population": 856745, "rank": 4 },
+    { "name": "Palermo", "population": 625956, "rank": 5 }
+  ]
+}
