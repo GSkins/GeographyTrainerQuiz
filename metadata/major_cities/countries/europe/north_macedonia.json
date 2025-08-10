@@ -1,0 +1,12 @@
+{
+  "country": "North Macedonia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Skopje", "population": 474889, "rank": 1 },
+    { "name": "Bitola", "population": 86528, "rank": 2 },
+    { "name": "Kumanovo", "population": 76275, "rank": 3 },
+    { "name": "Prilep", "population": 73814, "rank": 4 },
+    { "name": "Tetovo", "population": 72944, "rank": 5 }
+  ]
+}
