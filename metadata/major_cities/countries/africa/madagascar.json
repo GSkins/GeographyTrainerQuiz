@@ -1,0 +1,12 @@
+{
+  "country": "Madagascar",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Antananarivo", "population": 1391433, "rank": 1 },
+    { "name": "Toamasina", "population": 206373, "rank": 2 },
+    { "name": "Antsirabe", "population": 186253, "rank": 3 },
+    { "name": "Fianarantsoa", "population": 167227, "rank": 4 },
+    { "name": "Mahajanga", "population": 154657, "rank": 5 }
+  ]
+}
