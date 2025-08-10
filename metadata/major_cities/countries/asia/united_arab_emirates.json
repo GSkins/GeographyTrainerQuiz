@@ -1,0 +1,12 @@
+{
+  "country": "United Arab Emirates",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Dubai", "population": 1137347, "rank": 1 },
+    { "name": "Abu Dhabi", "population": 603492, "rank": 2 },
+    { "name": "Sharjah", "population": 543733, "rank": 3 },
+    { "name": "Al Ain", "population": 408733, "rank": 4 },
+    { "name": "Ajman", "population": 226172, "rank": 5 }
+  ]
+}
