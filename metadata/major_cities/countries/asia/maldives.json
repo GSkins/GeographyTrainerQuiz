@@ -1,0 +1,12 @@
+{
+  "country": "Maldives",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Malé", "population": 211908, "rank": 1 },
+    { "name": "Addu City (Hithadhoo)", "population": 25062, "rank": 2 },
+    { "name": "Fuvahmulah", "population": 9177, "rank": 3 },
+    { "name": "Kulhudhuffushi", "population": 15800, "rank": 4 },
+    { "name": "Thinadhoo", "population": 6500, "rank": 5 }
+  ]
+}
