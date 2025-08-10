@@ -1,0 +1,12 @@
+{
+  "country": "Tajikistan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Dushanbe", "population": 863400, "rank": 1 },
+    { "name": "Khujand", "population": 183600, "rank": 2 },
+    { "name": "Bokhtar", "population": 111800, "rank": 3 },
+    { "name": "Kulob", "population": 106300, "rank": 4 },
+    { "name": "Istaravshan", "population": 65600, "rank": 5 }
+  ]
+}
