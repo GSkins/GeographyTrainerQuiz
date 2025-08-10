@@ -1,0 +1,12 @@
+{
+  "country": "Netherlands",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Amsterdam", "population": 741636, "rank": 1 },
+    { "name": "Rotterdam", "population": 598199, "rank": 2 },
+    { "name": "The Hague", "population": 474292, "rank": 3 },
+    { "name": "Utrecht", "population": 290529, "rank": 4 },
+    { "name": "Eindhoven", "population": 209620, "rank": 5 }
+  ]
+}
