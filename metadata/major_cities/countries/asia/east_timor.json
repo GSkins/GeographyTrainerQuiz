@@ -1,0 +1,12 @@
+{
+  "country": "East Timor",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Díli", "population": 193563, "rank": 1 },
+    { "name": "Christa Rey", "population": 54936, "rank": 2 },
+    { "name": "Baucau", "population": 46500, "rank": 3 },
+    { "name": "Pante-Makassar", "population": 35226, "rank": 4 },
+    { "name": "Hatula", "population": 34999, "rank": 5 }
+  ]
+}
