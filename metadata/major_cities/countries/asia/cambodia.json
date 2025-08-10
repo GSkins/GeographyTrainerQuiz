@@ -1,0 +1,12 @@
+{
+  "country": "Cambodia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Phnom Penh", "population": 1573544, "rank": 1 },
+    { "name": "Takeo", "population": 843931, "rank": 2 },
+    { "name": "Sihanoukville", "population": 156691, "rank": 3 },
+    { "name": "Battambang", "population": 150444, "rank": 4 },
+    { "name": "Siem Reap", "population": 139458, "rank": 5 }
+  ]
+}
