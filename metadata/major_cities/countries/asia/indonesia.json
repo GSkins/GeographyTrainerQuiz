@@ -1,0 +1,12 @@
+{
+  "country": "Indonesia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Jakarta", "population": 10700000, "rank": 1 },
+    { "name": "Surabaya", "population": 3009286, "rank": 2 },
+    { "name": "Bekasi", "population": 2627207, "rank": 3 },
+    { "name": "Bandung", "population": 2506603, "rank": 4 },
+    { "name": "Medan", "population": 2494512, "rank": 5 }
+  ]
+}
