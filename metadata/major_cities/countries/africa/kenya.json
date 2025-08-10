@@ -1,0 +1,12 @@
+{
+  "country": "Kenya",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Nairobi", "population": 4828000, "rank": 1 },
+    { "name": "Mombasa", "population": 1208333, "rank": 2 },
+    { "name": "Nakuru", "population": 570674, "rank": 3 },
+    { "name": "Ruiru", "population": 490120, "rank": 4 },
+    { "name": "Eldoret", "population": 475716, "rank": 5 }
+  ]
+}
