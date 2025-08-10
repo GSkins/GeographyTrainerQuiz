@@ -1,0 +1,12 @@
+{
+  "country": "Burkina Faso",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Ouagadougou", "population": 2453496, "rank": 1 },
+    { "name": "Bobo-Dioulasso", "population": 984603, "rank": 2 },
+    { "name": "Koudougou", "population": 160239, "rank": 3 },
+    { "name": "Ouahigouya", "population": 124587, "rank": 4 },
+    { "name": "Kaya", "population": 121970, "rank": 5 }
+  ]
+}
