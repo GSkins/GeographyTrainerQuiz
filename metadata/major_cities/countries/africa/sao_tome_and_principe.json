@@ -1,0 +1,12 @@
+{
+  "country": "São Tomé and Príncipe",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "São Tomé", "population": 53300, "rank": 1 },
+    { "name": "Neves", "population": 8391, "rank": 2 },
+    { "name": "Água Izé", "population": 7445, "rank": 3 },
+    { "name": "Folha Fede", "population": 6685, "rank": 4 },
+    { "name": "Almas", "population": 4601, "rank": 5 }
+  ]
+}
