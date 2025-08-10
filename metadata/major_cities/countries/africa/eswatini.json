@@ -1,0 +1,12 @@
+{
+  "country": "Eswatini",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Manzini", "population": 110537, "rank": 1 },
+    { "name": "Mbabane", "population": 76218, "rank": 2 },
+    { "name": "Big Bend", "population": 10342, "rank": 3 },
+    { "name": "Malkerns", "population": 9724, "rank": 4 },
+    { "name": "Nhlangano", "population": 9016, "rank": 5 }
+  ]
+}
