@@ -43,7 +43,7 @@
 {
   "image": "cabo_verde_flag.png",
   "category": "flags",
-  "answer": "Cabo Verde" or "Cape Verde",
+  "answer": "Cabo Verde",
   "continent": "Africa",
   "question_type": "identify_country"
 }
@@ -71,14 +71,14 @@
 {
   "image": "congo_flag.png",
   "category": "flags",
-  "answer": "Congo" or "Republic of the Congo",
+  "answer": "Congo",
   "continent": "Africa",
   "question_type": "identify_country"
 }
 {
   "image": "democratic_republic_of_the_congo_flag.png",
   "category": "flags",
-  "answer": "Democratic Republic of the Congo" or "DRC",
+  "answer": "Democratic Republic of the Congo",
   "continent": "Africa",
   "question_type": "identify_country"
 }
@@ -134,7 +134,7 @@
 {
   "image": "gambia_flag.png",
   "category": "flags",
-  "answer": "Gambia" or "The Gambia",
+  "answer": "Gambia",
   "continent": "Africa",
   "question_type": "identify_country"
 }
@@ -162,7 +162,7 @@
 {
   "image": "ivory_coast_flag.png",
   "category": "flags",
-  "answer": "Ivory Coast" or "Cote d'Ivoire",
+  "answer": "Ivory Coast",
   "continent": "Africa",
   "question_type": "identify_country"
 }
