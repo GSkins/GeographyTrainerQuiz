@@ -1,0 +1,12 @@
+{
+  "country": "Niger",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Niamey", "population": 1302910, "rank": 1 },
+    { "name": "Zinder", "population": 256000, "rank": 2 },
+    { "name": "Maradi", "population": 206414, "rank": 3 },
+    { "name": "Tahoua", "population": 123000, "rank": 4 },
+    { "name": "Agadez", "population": 118244, "rank": 5 }
+  ]
+}
