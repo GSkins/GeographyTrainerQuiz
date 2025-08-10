@@ -1,0 +1,12 @@
+{
+  "country": "Sierra Leone",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Freetown", "population": 802639, "rank": 1 },
+    { "name": "Bo", "population": 174354, "rank": 2 },
+    { "name": "Kenema", "population": 143137, "rank": 3 },
+    { "name": "Koidu", "population": 88000, "rank": 4 },
+    { "name": "Makeni", "population": 87679, "rank": 5 }
+  ]
+}
