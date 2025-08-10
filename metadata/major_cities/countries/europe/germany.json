@@ -1,0 +1,12 @@
+{
+  "country": "Germany",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Berlin", "population": 3677472, "rank": 1 },
+    { "name": "Hamburg", "population": 1906411, "rank": 2 },
+    { "name": "Munich", "population": 1487708, "rank": 3 },
+    { "name": "Cologne", "population": 1073096, "rank": 4 },
+    { "name": "Frankfurt am Main", "population": 759224, "rank": 5 }
+  ]
+}
