@@ -1,0 +1,12 @@
+{
+  "country": "Spain",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Madrid", "population": 3255944, "rank": 1 },
+    { "name": "Barcelona", "population": 1621537, "rank": 2 },
+    { "name": "Valencia", "population": 814208, "rank": 3 },
+    { "name": "Sevilla", "population": 703206, "rank": 4 },
+    { "name": "Zaragoza", "population": 674317, "rank": 5 }
+  ]
+}
