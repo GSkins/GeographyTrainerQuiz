@@ -1,0 +1,12 @@
+{
+  "country": "Myanmar",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Yangon", "population": 4477638, "rank": 1 },
+    { "name": "Mandalay", "population": 1208099, "rank": 2 },
+    { "name": "Naypyidaw", "population": 925000, "rank": 3 },
+    { "name": "Mawlamyine", "population": 438861, "rank": 4 },
+    { "name": "Kyain Seikgyi", "population": 246065, "rank": 5 }
+  ]
+}
