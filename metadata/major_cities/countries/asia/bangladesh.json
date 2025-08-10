@@ -1,0 +1,12 @@
+{
+  "country": "Bangladesh",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Dhaka", "population": 10356500, "rank": 1 },
+    { "name": "Chittagong", "population": 3920222, "rank": 2 },
+    { "name": "Khulna", "population": 1342339, "rank": 3 },
+    { "name": "Rajshahi", "population": 700133, "rank": 4 },
+    { "name": "Comilla", "population": 389411, "rank": 5 }
+  ]
+}
