@@ -1,0 +1,12 @@
+{
+  "country": "Bhutan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Thimphu", "population": 114551, "rank": 1 },
+    { "name": "Phuntsholing", "population": 27658, "rank": 2 },
+    { "name": "Paro", "population": 11448, "rank": 3 },
+    { "name": "Gelephu", "population": 9858, "rank": 4 },
+    { "name": "Samdrup Jongkhar", "population": 9325, "rank": 5 }
+  ]
+}
