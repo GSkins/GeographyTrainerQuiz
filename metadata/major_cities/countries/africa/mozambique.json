@@ -1,0 +1,12 @@
+{
+  "country": "Mozambique",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Maputo", "population": 1191613, "rank": 1 },
+    { "name": "Matola", "population": 675422, "rank": 2 },
+    { "name": "Beira", "population": 530604, "rank": 3 },
+    { "name": "Nampula", "population": 388526, "rank": 4 },
+    { "name": "Chimoio", "population": 256936, "rank": 5 }
+  ]
+}
