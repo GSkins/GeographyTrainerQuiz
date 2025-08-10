@@ -1,0 +1,12 @@
+{
+  "country": "Central African Republic",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bangui", "population": 542393, "rank": 1 },
+    { "name": "Bimbo", "population": 129655, "rank": 2 },
+    { "name": "Mbaïki", "population": 67132, "rank": 3 },
+    { "name": "Berbérati", "population": 61815, "rank": 4 },
+    { "name": "Kaga-Bandoro", "population": 56520, "rank": 5 }
+  ]
+}
