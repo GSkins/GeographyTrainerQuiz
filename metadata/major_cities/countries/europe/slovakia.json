@@ -1,0 +1,12 @@
+{
+  "country": "Slovakia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bratislava", "population": 583600, "rank": 1 },
+    { "name": "Košice", "population": 355047, "rank": 2 },
+    { "name": "Žilina", "population": 108114, "rank": 3 },
+    { "name": "Prešov", "population": 91352, "rank": 4 },
+    { "name": "Nitra", "population": 80524, "rank": 5 }
+  ]
+}
