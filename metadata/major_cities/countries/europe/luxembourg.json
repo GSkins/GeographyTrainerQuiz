@@ -1,0 +1,12 @@
+{
+  "country": "Luxembourg",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Luxembourg City", "population": 76684, "rank": 1 },
+    { "name": "Esch-sur-Alzette", "population": 36625, "rank": 2 },
+    { "name": "Dudelange", "population": 18013, "rank": 3 },
+    { "name": "Belvaux", "population": 8329, "rank": 4 },
+    { "name": "Schifflange", "population": 8155, "rank": 5 }
+  ]
+}
