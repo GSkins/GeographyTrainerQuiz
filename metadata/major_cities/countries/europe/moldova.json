@@ -1,0 +1,12 @@
+{
+  "country": "Moldova",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Chișinău", "population": 635994, "rank": 1 },
+    { "name": "Tiraspol", "population": 157000, "rank": 2 },
+    { "name": "Bălți", "population": 125000, "rank": 3 },
+    { "name": "Bender (Tighina)", "population": 110175, "rank": 4 },
+    { "name": "Rîbnița", "population": 55455, "rank": 5 }
+  ]
+}
