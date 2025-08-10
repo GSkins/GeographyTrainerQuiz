@@ -1,0 +1,12 @@
+{
+  "country": "Liechtenstein",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Schaan", "population": 6250, "rank": 1 },
+    { "name": "Vaduz", "population": 6002, "rank": 2 },
+    { "name": "Triesen", "population": 5688, "rank": 3 },
+    { "name": "Balzers", "population": 4803, "rank": 4 },
+    { "name": "Eschen", "population": 4663, "rank": 5 }
+  ]
+}
