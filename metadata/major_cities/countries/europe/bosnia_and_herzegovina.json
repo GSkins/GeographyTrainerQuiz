@@ -1,0 +1,12 @@
+{
+  "country": "Bosnia and Herzegovina",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Sarajevo", "population": 696731, "rank": 1 },
+    { "name": "Banja Luka", "population": 221106, "rank": 2 },
+    { "name": "Zenica", "population": 164423, "rank": 3 },
+    { "name": "Tuzla", "population": 142486, "rank": 4 },
+    { "name": "Mostar", "population": 104518, "rank": 5 }
+  ]
+}
