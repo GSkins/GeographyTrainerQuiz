@@ -1,0 +1,12 @@
+{
+  "country": "Namibia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Windhoek", "population": 486169, "rank": 1 },
+    { "name": "Rundu", "population": 118625, "rank": 2 },
+    { "name": "Walvis Bay", "population": 102704, "rank": 3 },
+    { "name": "Swakopmund", "population": 75921, "rank": 4 },
+    { "name": "Oshakati", "population": 58696, "rank": 5 }
+  ]
+}
