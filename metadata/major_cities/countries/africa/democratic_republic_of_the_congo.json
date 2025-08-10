@@ -1,0 +1,12 @@
+{
+  "country": "Democratic Republic of the Congo",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kinshasa", "population": 7785965, "rank": 1 },
+    { "name": "Lubumbashi", "population": 1373770, "rank": 2 },
+    { "name": "Mbuji-Mayi", "population": 874761, "rank": 3 },
+    { "name": "Kisangani", "population": 539158, "rank": 4 },
+    { "name": "Masina", "population": 485167, "rank": 5 }
+  ]
+}
