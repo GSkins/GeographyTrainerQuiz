@@ -1,0 +1,12 @@
+{
+  "country": "Monaco",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Monaco (Monaco-Ville)", "population": 32965, "rank": 1 },
+    { "name": "Monte Carlo", "population": 16012, "rank": 2 },
+    { "name": "La Condamine", "population": 12167, "rank": 3 },
+    { "name": "Fontvieille", "population": 3500, "rank": 4 },
+    { "name": "Moneghetti", "population": 3400, "rank": 5 }
+  ]
+}
