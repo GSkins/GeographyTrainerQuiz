@@ -1,0 +1,12 @@
+{
+  "country": "Taiwan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Taipei", "population": 7871900, "rank": 1 },
+    { "name": "Kaohsiung", "population": 1519711, "rank": 2 },
+    { "name": "Taichung", "population": 1040725, "rank": 3 },
+    { "name": "Tainan", "population": 771235, "rank": 4 },
+    { "name": "Banqiao", "population": 543342, "rank": 5 }
+  ]
+}
