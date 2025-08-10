@@ -1,0 +1,12 @@
+{
+  "country": "Lesotho",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Maseru", "population": 330760, "rank": 1 },
+    { "name": "Teyateyaneng", "population": 75115, "rank": 2 },
+    { "name": "Maputsoe", "population": 55541, "rank": 3 },
+    { "name": "Mafeteng", "population": 39754, "rank": 4 },
+    { "name": "Hlotse", "population": 38558, "rank": 5 }
+  ]
+}
