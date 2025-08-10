@@ -1,0 +1,12 @@
+{
+  "country": "Vietnam",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Ho Chi Minh City", "population": 9500000, "rank": 1 },
+    { "name": "Hanoi", "population": 9000000, "rank": 2 },
+    { "name": "Haiphong", "population": 2400000, "rank": 3 },
+    { "name": "Da Nang", "population": 1500000, "rank": 4 },
+    { "name": "Bien Hoa", "population": 1104495, "rank": 5 }
+  ]
+}
