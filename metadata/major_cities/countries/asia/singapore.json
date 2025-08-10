@@ -1,0 +1,12 @@
+{
+  "country": "Singapore",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Singapore", "population": 5638700, "rank": 1 },
+    { "name": "Bedok", "population": 276990, "rank": 2 },
+    { "name": "Jurong West", "population": 262730, "rank": 3 },
+    { "name": "Woodlands", "population": 254730, "rank": 4 },
+    { "name": "Sengkang", "population": 244600, "rank": 5 }
+  ]
+}
