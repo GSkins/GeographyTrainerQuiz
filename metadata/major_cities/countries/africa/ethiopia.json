@@ -1,0 +1,12 @@
+{
+  "country": "Ethiopia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Addis Ababa", "population": 4567857, "rank": 1 },
+    { "name": "Dire Dawa", "population": 1274869, "rank": 2 },
+    { "name": "Mek'ele", "population": 480217, "rank": 3 },
+    { "name": "Nazret (Adama)", "population": 213995, "rank": 4 },
+    { "name": "Bahir Dar", "population": 168899, "rank": 5 }
+  ]
+}
