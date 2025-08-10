@@ -1,0 +1,12 @@
+{
+  "country": "Zimbabwe",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Harare", "population": 1849600, "rank": 1 },
+    { "name": "Bulawayo", "population": 665940, "rank": 2 },
+    { "name": "Chitungwiza", "population": 371244, "rank": 3 },
+    { "name": "Mutare", "population": 224802, "rank": 4 },
+    { "name": "Epworth", "population": 167462, "rank": 5 }
+  ]
+}
