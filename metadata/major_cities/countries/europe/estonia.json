@@ -1,0 +1,12 @@
+{
+  "country": "Estonia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Tallinn", "population": 440950, "rank": 1 },
+    { "name": "Tartu", "population": 93687, "rank": 2 },
+    { "name": "Narva", "population": 58375, "rank": 3 },
+    { "name": "Pärnu", "population": 41170, "rank": 4 },
+    { "name": "Kohtla-Järve", "population": 35928, "rank": 5 }
+  ]
+}
