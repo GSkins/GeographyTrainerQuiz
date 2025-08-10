@@ -1,0 +1,12 @@
+{
+  "country": "Romania",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bucharest", "population": 1877155, "rank": 1 },
+    { "name": "Cluj-Napoca", "population": 316748, "rank": 2 },
+    { "name": "Timișoara", "population": 315053, "rank": 3 },
+    { "name": "Iași", "population": 318012, "rank": 4 },
+    { "name": "Constanța", "population": 303399, "rank": 5 }
+  ]
+}
