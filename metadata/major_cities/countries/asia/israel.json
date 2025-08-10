@@ -1,0 +1,12 @@
+{
+  "country": "Israel",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Jerusalem", "population": 801000, "rank": 1 },
+    { "name": "Tel Aviv", "population": 432892, "rank": 2 },
+    { "name": "Haifa", "population": 267300, "rank": 3 },
+    { "name": "Ashdod", "population": 224656, "rank": 4 },
+    { "name": "Rishon LeZiyyon", "population": 220492, "rank": 5 }
+  ]
+}
