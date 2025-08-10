@@ -1,0 +1,12 @@
+{
+  "country": "Pakistan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Karachi", "population": 18868021, "rank": 1 },
+    { "name": "Lahore", "population": 13004135, "rank": 2 },
+    { "name": "Faisalabad", "population": 3691999, "rank": 3 },
+    { "name": "Rawalpindi", "population": 3357612, "rank": 4 },
+    { "name": "Gujranwala", "population": 2511118, "rank": 5 }
+  ]
+}
