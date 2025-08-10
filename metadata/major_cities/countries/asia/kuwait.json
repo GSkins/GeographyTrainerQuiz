@@ -1,0 +1,12 @@
+{
+  "country": "Kuwait",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Al Ahmadi", "population": 637411, "rank": 1 },
+    { "name": "Hawalli", "population": 164212, "rank": 2 },
+    { "name": "Salmiya", "population": 147649, "rank": 3 },
+    { "name": "Sabah as Salim", "population": 139163, "rank": 4 },
+    { "name": "Al Farwaniyah", "population": 86525, "rank": 5 }
+  ]
+}
