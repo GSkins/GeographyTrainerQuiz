@@ -1,0 +1,12 @@
+{
+  "country": "Mauritania",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Nouakchott", "population": 661400, "rank": 1 },
+    { "name": "Nouadhibou", "population": 72337, "rank": 2 },
+    { "name": "Néma", "population": 60000, "rank": 3 },
+    { "name": "Kaédi", "population": 55374, "rank": 4 },
+    { "name": "Rosso", "population": 48922, "rank": 5 }
+  ]
+}
