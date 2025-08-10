@@ -1,0 +1,12 @@
+{
+  "country": "San Marino",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Serravalle", "population": 11500, "rank": 1 },
+    { "name": "Borgo Maggiore", "population": 7000, "rank": 2 },
+    { "name": "San Marino", "population": 4000, "rank": 3 },
+    { "name": "Domagnano", "population": 3500, "rank": 4 },
+    { "name": "Fiorentino", "population": 2600, "rank": 5 }
+  ]
+}
