@@ -1,0 +1,12 @@
+{
+  "country": "Malta",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Birkirkara", "population": 24430, "rank": 1 },
+    { "name": "Mosta", "population": 23482, "rank": 2 },
+    { "name": "Qormi", "population": 16779, "rank": 3 },
+    { "name": "Żabbar", "population": 15404, "rank": 4 },
+    { "name": "Sliema", "population": 15500, "rank": 5 }
+  ]
+}
