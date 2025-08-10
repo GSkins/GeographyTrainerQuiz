@@ -1,0 +1,12 @@
+{
+  "country": "Croatia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Zagreb", "population": 792875, "rank": 1 },
+    { "name": "Split", "population": 178102, "rank": 2 },
+    { "name": "Rijeka", "population": 128624, "rank": 3 },
+    { "name": "Osijek", "population": 108048, "rank": 4 },
+    { "name": "Zadar", "population": 75082, "rank": 5 }
+  ]
+}
