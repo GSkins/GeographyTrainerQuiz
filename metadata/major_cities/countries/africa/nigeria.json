@@ -1,0 +1,12 @@
+{
+  "country": "Nigeria",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Lagos", "population": 9000000, "rank": 1 },
+    { "name": "Kano", "population": 3626068, "rank": 2 },
+    { "name": "Ibadan", "population": 3565108, "rank": 3 },
+    { "name": "Kaduna", "population": 1582102, "rank": 4 },
+    { "name": "Port Harcourt", "population": 1148665, "rank": 5 }
+  ]
+}
