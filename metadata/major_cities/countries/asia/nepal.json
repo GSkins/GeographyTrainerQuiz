@@ -1,0 +1,12 @@
+{
+  "country": "Nepal",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kathmandu", "population": 1442271, "rank": 1 },
+    { "name": "Pokhara", "population": 513504, "rank": 2 },
+    { "name": "Lalitpur (Patan)", "population": 294098, "rank": 3 },
+    { "name": "Biratnagar", "population": 243927, "rank": 4 },
+    { "name": "Birgunj", "population": 272382, "rank": 5 }
+  ]
+}
