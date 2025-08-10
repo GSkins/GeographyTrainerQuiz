@@ -1,0 +1,12 @@
+{
+  "country": "Sweden",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Stockholm", "population": 1515017, "rank": 1 },
+    { "name": "Gothenburg", "population": 572799, "rank": 2 },
+    { "name": "Malmö", "population": 301706, "rank": 3 },
+    { "name": "Uppsala", "population": 149245, "rank": 4 },
+    { "name": "Västerås", "population": 117746, "rank": 5 }
+  ]
+}
