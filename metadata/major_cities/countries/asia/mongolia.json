@@ -1,0 +1,12 @@
+{
+  "country": "Mongolia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Ulaanbaatar", "population": 844818, "rank": 1 },
+    { "name": "Erdenet", "population": 79647, "rank": 2 },
+    { "name": "Darkhan", "population": 74300, "rank": 3 },
+    { "name": "Khovd", "population": 30500, "rank": 4 },
+    { "name": "Ölgii", "population": 28400, "rank": 5 }
+  ]
+}
