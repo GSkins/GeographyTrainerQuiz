@@ -1,0 +1,12 @@
+{
+  "country": "Philippines",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Quezon City", "population": 2960048, "rank": 1 },
+    { "name": "Manila", "population": 1846513, "rank": 2 },
+    { "name": "Davao City", "population": 1776949, "rank": 3 },
+    { "name": "Caloocan", "population": 1583978, "rank": 4 },
+    { "name": "Cebu City", "population": 964169, "rank": 5 }
+  ]
+}
