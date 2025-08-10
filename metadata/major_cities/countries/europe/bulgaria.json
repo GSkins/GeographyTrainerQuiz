@@ -1,0 +1,12 @@
+{
+  "country": "Bulgaria",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Sofia", "population": 1152556, "rank": 1 },
+    { "name": "Plovdiv", "population": 340494, "rank": 2 },
+    { "name": "Varna", "population": 312770, "rank": 3 },
+    { "name": "Burgas", "population": 195966, "rank": 4 },
+    { "name": "Ruse", "population": 156238, "rank": 5 }
+  ]
+}
