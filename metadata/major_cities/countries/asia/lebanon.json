@@ -1,0 +1,12 @@
+{
+  "country": "Lebanon",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Beirut", "population": 1916100, "rank": 1 },
+    { "name": "Tripoli", "population": 229398, "rank": 2 },
+    { "name": "Sidon", "population": 163554, "rank": 3 },
+    { "name": "Tyre", "population": 135204, "rank": 4 },
+    { "name": "Nabatîyé et Tahta", "population": 120000, "rank": 5 }
+  ]
+}
