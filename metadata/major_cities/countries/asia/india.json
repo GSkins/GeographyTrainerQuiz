@@ -1,0 +1,12 @@
+{
+  "country": "India",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Delhi", "population": 33807403, "rank": 1 },
+    { "name": "Mumbai", "population": 21673570, "rank": 2 },
+    { "name": "Kolkata", "population": 15570786, "rank": 3 },
+    { "name": "Bangalore", "population": 14008262, "rank": 4 },
+    { "name": "Chennai", "population": 12053697, "rank": 5 }
+  ]
+}
