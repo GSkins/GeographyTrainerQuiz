@@ -1,0 +1,12 @@
+{
+  "country": "Malaysia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kuala Lumpur", "population": 1982112, "rank": 1 },
+    { "name": "Kajang", "population": 1047356, "rank": 2 },
+    { "name": "Seberang Perai", "population": 946092, "rank": 3 },
+    { "name": "Subang Jaya", "population": 902086, "rank": 4 },
+    { "name": "Klang", "population": 902025, "rank": 5 }
+  ]
+}
