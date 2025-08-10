@@ -1,0 +1,12 @@
+{
+  "country": "Oman",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Muscat", "population": 797000, "rank": 1 },
+    { "name": "Seeb", "population": 237816, "rank": 2 },
+    { "name": "Salalah", "population": 163140, "rank": 3 },
+    { "name": "Bawshar", "population": 159487, "rank": 4 },
+    { "name": "Sohar", "population": 108274, "rank": 5 }
+  ]
+}
