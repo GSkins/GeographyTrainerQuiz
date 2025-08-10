@@ -1,0 +1,12 @@
+{
+  "country": "Malawi",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Lilongwe", "population": 1077116, "rank": 1 },
+    { "name": "Blantyre", "population": 1068681, "rank": 2 },
+    { "name": "Zomba", "population": 101140, "rank": 3 },
+    { "name": "Kasungu", "population": 59696, "rank": 4 },
+    { "name": "Mangochi", "population": 51429, "rank": 5 }
+  ]
+}
