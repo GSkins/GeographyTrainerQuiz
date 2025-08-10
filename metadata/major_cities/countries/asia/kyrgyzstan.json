@@ -1,0 +1,12 @@
+{
+  "country": "Kyrgyzstan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bishkek", "population": 900000, "rank": 1 },
+    { "name": "Osh", "population": 200000, "rank": 2 },
+    { "name": "Jalal-Abad", "population": 75700, "rank": 3 },
+    { "name": "Karakol", "population": 70171, "rank": 4 },
+    { "name": "Tokmok", "population": 63047, "rank": 5 }
+  ]
+}
