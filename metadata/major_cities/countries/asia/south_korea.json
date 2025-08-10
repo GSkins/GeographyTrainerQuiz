@@ -1,0 +1,12 @@
+{
+  "country": "South Korea",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Seoul", "population": 9776000, "rank": 1 },
+    { "name": "Busan", "population": 3444000, "rank": 2 },
+    { "name": "Incheon", "population": 2954000, "rank": 3 },
+    { "name": "Daegu", "population": 2431000, "rank": 4 },
+    { "name": "Daejeon", "population": 1475000, "rank": 5 }
+  ]
+}
