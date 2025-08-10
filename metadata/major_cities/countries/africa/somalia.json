@@ -1,0 +1,12 @@
+{
+  "country": "Somalia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Mogadishu", "population": 2587183, "rank": 1 },
+    { "name": "Hargeysa", "population": 477876, "rank": 2 },
+    { "name": "Berbera", "population": 242344, "rank": 3 },
+    { "name": "Kismayo", "population": 234852, "rank": 4 },
+    { "name": "Marka", "population": 230100, "rank": 5 }
+  ]
+}
