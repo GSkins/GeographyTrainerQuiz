@@ -1,0 +1,12 @@
+{
+  "country": "Andorra",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Andorra la Vella", "population": 20719, "rank": 1 },
+    { "name": "Escaldes-Engordany", "population": 15506, "rank": 2 },
+    { "name": "Encamp", "population": 8326, "rank": 3 },
+    { "name": "Sant Julià de Lòria", "population": 7962, "rank": 4 },
+    { "name": "La Massana", "population": 5979, "rank": 5 }
+  ]
+}
