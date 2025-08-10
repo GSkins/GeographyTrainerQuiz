@@ -1,0 +1,12 @@
+{
+  "country": "Greece",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Athens", "population": 3753783, "rank": 1 },
+    { "name": "Thessaloniki", "population": 1084001, "rank": 2 },
+    { "name": "Patras", "population": 260308, "rank": 3 },
+    { "name": "Heraklion", "population": 173993, "rank": 4 },
+    { "name": "Larissa", "population": 162591, "rank": 5 }
+  ]
+}
