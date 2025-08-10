@@ -1,0 +1,12 @@
+{
+  "country": "South Sudan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Juba", "population": 492970, "rank": 1 },
+    { "name": "Bor", "population": 315351, "rank": 2 },
+    { "name": "Yei", "population": 260720, "rank": 3 },
+    { "name": "Wau", "population": 232910, "rank": 4 },
+    { "name": "Malakal", "population": 147450, "rank": 5 }
+  ]
+}
