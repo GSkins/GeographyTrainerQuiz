@@ -1,0 +1,12 @@
+{
+  "country": "Slovenia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Ljubljana", "population": 272220, "rank": 1 },
+    { "name": "Maribor", "population": 95171, "rank": 2 },
+    { "name": "Celje", "population": 37520, "rank": 3 },
+    { "name": "Kranj", "population": 36874, "rank": 4 },
+    { "name": "Velenje", "population": 25456, "rank": 5 }
+  ]
+}
