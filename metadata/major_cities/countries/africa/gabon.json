@@ -1,0 +1,12 @@
+{
+  "country": "Gabon",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Libreville", "population": 578156, "rank": 1 },
+    { "name": "Port-Gentil", "population": 109163, "rank": 2 },
+    { "name": "Franceville", "population": 42967, "rank": 3 },
+    { "name": "Oyem", "population": 30870, "rank": 4 },
+    { "name": "Moanda", "population": 30151, "rank": 5 }
+  ]
+}
