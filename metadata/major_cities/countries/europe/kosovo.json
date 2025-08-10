@@ -1,0 +1,12 @@
+{
+  "country": "Kosovo",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Pristina", "population": 204925, "rank": 1 },
+    { "name": "Prizren", "population": 90209, "rank": 2 },
+    { "name": "Peja", "population": 42497, "rank": 3 },
+    { "name": "Gjilan", "population": 53279, "rank": 4 },
+    { "name": "Mitrovica", "population": 46597, "rank": 5 }
+  ]
+}
