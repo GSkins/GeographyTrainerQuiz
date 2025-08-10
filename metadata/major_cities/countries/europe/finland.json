@@ -1,0 +1,12 @@
+{
+  "country": "Finland",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Helsinki", "population": 1305893, "rank": 1 },
+    { "name": "Tampere", "population": 341696, "rank": 2 },
+    { "name": "Turku", "population": 277677, "rank": 3 },
+    { "name": "Oulu", "population": 205137, "rank": 4 },
+    { "name": "Jyväskylä", "population": 128911, "rank": 5 }
+  ]
+}
