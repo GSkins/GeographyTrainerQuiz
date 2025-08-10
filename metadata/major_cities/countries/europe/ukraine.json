@@ -1,0 +1,12 @@
+{
+  "country": "Ukraine",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kyiv", "population": 2797553, "rank": 1 },
+    { "name": "Kharkiv", "population": 1430885, "rank": 2 },
+    { "name": "Dnipro", "population": 1032822, "rank": 3 },
+    { "name": "Donetsk", "population": 1024700, "rank": 4 },
+    { "name": "Odessa", "population": 1001558, "rank": 5 }
+  ]
+}
