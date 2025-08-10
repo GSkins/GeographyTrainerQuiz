@@ -1,0 +1,12 @@
+{
+  "country": "Lithuania",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Vilnius", "population": 542366, "rank": 1 },
+    { "name": "Kaunas", "population": 374643, "rank": 2 },
+    { "name": "Klaipėda", "population": 192307, "rank": 3 },
+    { "name": "Šiauliai", "population": 130587, "rank": 4 },
+    { "name": "Panevėžys", "population": 117395, "rank": 5 }
+  ]
+}
