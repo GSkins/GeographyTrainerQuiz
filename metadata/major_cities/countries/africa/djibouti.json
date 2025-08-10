@@ -1,0 +1,12 @@
+{
+  "country": "Djibouti",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Djibouti City", "population": 603000, "rank": 1 },
+    { "name": "Ali Sabieh", "population": 55000, "rank": 2 },
+    { "name": "Tadjourah", "population": 22000, "rank": 3 },
+    { "name": "Dikhil", "population": 17000, "rank": 4 },
+    { "name": "Arta", "population": 13000, "rank": 5 }
+  ]
+}
