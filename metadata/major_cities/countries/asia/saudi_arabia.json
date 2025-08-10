@@ -1,0 +1,12 @@
+{
+  "country": "Saudi Arabia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Riyadh", "population": 4205961, "rank": 1 },
+    { "name": "Jeddah", "population": 2867446, "rank": 2 },
+    { "name": "Mecca", "population": 1323624, "rank": 3 },
+    { "name": "Medina", "population": 1300000, "rank": 4 },
+    { "name": "Dammam", "population": 768602, "rank": 5 }
+  ]
+}
