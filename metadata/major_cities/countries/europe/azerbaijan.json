@@ -1,0 +1,12 @@
+{
+  "country": "Azerbaijan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Baku", "population": 2344900, "rank": 1 },
+    { "name": "Sumqayit", "population": 427000, "rank": 2 },
+    { "name": "Ganja", "population": 330700, "rank": 3 },
+    { "name": "Khirdalan", "population": 195700, "rank": 4 },
+    { "name": "Mingachevir", "population": 102900, "rank": 5 }
+  ]
+}
