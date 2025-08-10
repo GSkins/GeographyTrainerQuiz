@@ -1,0 +1,12 @@
+{
+  "country": "Laos",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Vientiane", "population": 562244, "rank": 1 },
+    { "name": "Savannakhet", "population": 93277, "rank": 2 },
+    { "name": "Pakxe", "population": 88166, "rank": 3 },
+    { "name": "Thakhek", "population": 55600, "rank": 4 },
+    { "name": "Muang Xai", "population": 52267, "rank": 5 }
+  ]
+}
