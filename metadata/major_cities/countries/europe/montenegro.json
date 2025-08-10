@@ -1,0 +1,12 @@
+{
+  "country": "Montenegro",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Podgorica", "population": 172139, "rank": 1 },
+    { "name": "Nikšić", "population": 32046, "rank": 2 },
+    { "name": "Budva", "population": 19497, "rank": 3 },
+    { "name": "Pljevlja", "population": 16111, "rank": 4 },
+    { "name": "Herceg Novi", "population": 16075, "rank": 5 }
+  ]
+}
