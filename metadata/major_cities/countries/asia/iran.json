@@ -1,0 +1,12 @@
+{
+  "country": "Iran",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Tehran", "population": 15800000, "rank": 1 },
+    { "name": "Mashhad", "population": 3989070, "rank": 2 },
+    { "name": "Isfahan", "population": 3416000, "rank": 3 },
+    { "name": "Karaj", "population": 2512737, "rank": 4 },
+    { "name": "Shiraz", "population": 1800000, "rank": 5 }
+  ]
+}
