@@ -1,0 +1,12 @@
+{
+  "country": "Mali",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bamako", "population": 1809106, "rank": 1 },
+    { "name": "Sikasso", "population": 225753, "rank": 2 },
+    { "name": "Kalabancoro", "population": 166722, "rank": 3 },
+    { "name": "Koutiala", "population": 137919, "rank": 4 },
+    { "name": "Segou", "population": 130690, "rank": 5 }
+  ]
+}
