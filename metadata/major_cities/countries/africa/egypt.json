@@ -1,0 +1,12 @@
+{
+  "country": "Egypt",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Cairo", "population": 7734614, "rank": 1 },
+    { "name": "Alexandria", "population": 3811516, "rank": 2 },
+    { "name": "Giza", "population": 2443203, "rank": 3 },
+    { "name": "Port Said", "population": 538378, "rank": 4 },
+    { "name": "Suez", "population": 488125, "rank": 5 }
+  ]
+}
