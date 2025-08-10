@@ -1,0 +1,12 @@
+{
+  "country": "Turkmenistan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Ashgabat", "population": 727700, "rank": 1 },
+    { "name": "Turkmenabat", "population": 234817, "rank": 2 },
+    { "name": "Dasoguz", "population": 166500, "rank": 3 },
+    { "name": "Mary", "population": 114680, "rank": 4 },
+    { "name": "Balkanabat", "population": 87822, "rank": 5 }
+  ]
+}
