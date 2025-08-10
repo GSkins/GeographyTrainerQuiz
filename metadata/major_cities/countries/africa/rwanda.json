@@ -1,0 +1,12 @@
+{
+  "country": "Rwanda",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kigali", "population": 745261, "rank": 1 },
+    { "name": "Butare", "population": 89600, "rank": 2 },
+    { "name": "Gitarama", "population": 87613, "rank": 3 },
+    { "name": "Ruhengeri", "population": 86685, "rank": 4 },
+    { "name": "Gisenyi", "population": 86323, "rank": 5 }
+  ]
+}
