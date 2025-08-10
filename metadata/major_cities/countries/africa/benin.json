@@ -1,0 +1,12 @@
+{
+  "country": "Benin",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Cotonou", "population": 780000, "rank": 1 },
+    { "name": "Abomey-Calavi", "population": 385755, "rank": 2 },
+    { "name": "Djougou", "population": 237040, "rank": 3 },
+    { "name": "Porto-Novo", "population": 234168, "rank": 4 },
+    { "name": "Parakou", "population": 163753, "rank": 5 }
+  ]
+}
