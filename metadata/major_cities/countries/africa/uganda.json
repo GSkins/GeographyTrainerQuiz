@@ -1,0 +1,12 @@
+{
+  "country": "Uganda",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kampala", "population": 1507080, "rank": 1 },
+    { "name": "Nansana", "population": 365124, "rank": 2 },
+    { "name": "Kira Town", "population": 317157, "rank": 3 },
+    { "name": "Ssabagabo", "population": 283272, "rank": 4 },
+    { "name": "Mbarara", "population": 195531, "rank": 5 }
+  ]
+}
