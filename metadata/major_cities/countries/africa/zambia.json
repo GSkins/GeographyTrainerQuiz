@@ -1,0 +1,12 @@
+{
+  "country": "Zambia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Lusaka", "population": 3079964, "rank": 1 },
+    { "name": "Kitwe", "population": 661901, "rank": 2 },
+    { "name": "Ndola", "population": 624579, "rank": 3 },
+    { "name": "Chipata", "population": 206552, "rank": 4 },
+    { "name": "Livingstone", "population": 177393, "rank": 5 }
+  ]
+}
