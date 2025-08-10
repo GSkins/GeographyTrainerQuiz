@@ -1,0 +1,12 @@
+{
+  "country": "Portugal",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Lisbon", "population": 547631, "rank": 1 },
+    { "name": "Porto", "population": 237559, "rank": 2 },
+    { "name": "Vila Nova de Gaia", "population": 186503, "rank": 3 },
+    { "name": "Amadora", "population": 175135, "rank": 4 },
+    { "name": "Braga", "population": 143532, "rank": 5 }
+  ]
+}
