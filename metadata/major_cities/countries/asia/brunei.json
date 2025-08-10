@@ -1,0 +1,12 @@
+{
+  "country": "Brunei",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bandar Seri Begawan", "population": 64409, "rank": 1 },
+    { "name": "Kuala Belait", "population": 31178, "rank": 2 },
+    { "name": "Seria", "population": 30097, "rank": 3 },
+    { "name": "Tutong", "population": 19151, "rank": 4 },
+    { "name": "Bangar", "population": 3970, "rank": 5 }
+  ]
+}
