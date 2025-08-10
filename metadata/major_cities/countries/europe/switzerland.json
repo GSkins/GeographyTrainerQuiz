@@ -1,0 +1,12 @@
+{
+  "country": "Switzerland",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Zurich", "population": 341730, "rank": 1 },
+    { "name": "Geneva", "population": 183981, "rank": 2 },
+    { "name": "Basel", "population": 164488, "rank": 3 },
+    { "name": "Bern", "population": 121631, "rank": 4 },
+    { "name": "Lausanne", "population": 116751, "rank": 5 }
+  ]
+}
