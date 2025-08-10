@@ -1,0 +1,12 @@
+{
+  "country": "Russia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Moscow", "population": 13010112, "rank": 1 },
+    { "name": "Saint Petersburg", "population": 5601911, "rank": 2 },
+    { "name": "Novosibirsk", "population": 1633595, "rank": 3 },
+    { "name": "Yekaterinburg", "population": 1544376, "rank": 4 },
+    { "name": "Kazan", "population": 1308660, "rank": 5 }
+  ]
+}
