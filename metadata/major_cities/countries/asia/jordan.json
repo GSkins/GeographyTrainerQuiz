@@ -1,0 +1,12 @@
+{
+  "country": "Jordan",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Amman", "population": 1275857, "rank": 1 },
+    { "name": "Zarqa", "population": 792665, "rank": 2 },
+    { "name": "Irbid", "population": 307480, "rank": 3 },
+    { "name": "Russeifa", "population": 268237, "rank": 4 },
+    { "name": "Wadi as-Sir", "population": 181212, "rank": 5 }
+  ]
+}
