@@ -1,0 +1,12 @@
+{
+  "country": "France",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Paris", "population": 2229621, "rank": 1 },
+    { "name": "Marseille", "population": 855393, "rank": 2 },
+    { "name": "Lyon", "population": 501155, "rank": 3 },
+    { "name": "Toulouse", "population": 511250, "rank": 4 },
+    { "name": "Nice", "population": 342295, "rank": 5 }
+  ]
+}
