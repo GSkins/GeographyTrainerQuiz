@@ -1,0 +1,12 @@
+{
+  "country": "United Kingdom",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "London", "population": 7556900, "rank": 1 },
+    { "name": "Birmingham", "population": 984333, "rank": 2 },
+    { "name": "Liverpool", "population": 864122, "rank": 3 },
+    { "name": "Nottingham", "population": 729977, "rank": 4 },
+    { "name": "Sheffield", "population": 685368, "rank": 5 }
+  ]
+}
