@@ -1,0 +1,12 @@
+{
+  "country": "Togo",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Lomé", "population": 749700, "rank": 1 },
+    { "name": "Sokodé", "population": 117811, "rank": 2 },
+    { "name": "Kara", "population": 104207, "rank": 3 },
+    { "name": "Atakpamé", "population": 80683, "rank": 4 },
+    { "name": "Kpalimé", "population": 75084, "rank": 5 }
+  ]
+}
