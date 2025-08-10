@@ -1,0 +1,12 @@
+{
+  "country": "Iceland",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Reykjavík", "population": 124847, "rank": 1 },
+    { "name": "Kópavogur", "population": 35966, "rank": 2 },
+    { "name": "Hafnarfjörður", "population": 29409, "rank": 3 },
+    { "name": "Akureyri", "population": 18542, "rank": 4 },
+    { "name": "Reykjanesbær", "population": 17555, "rank": 5 }
+  ]
+}
