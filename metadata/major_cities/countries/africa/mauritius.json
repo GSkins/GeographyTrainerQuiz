@@ -1,0 +1,12 @@
+{
+  "country": "Mauritius",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Port Louis", "population": 155226, "rank": 1 },
+    { "name": "Beau Bassin-Rose Hill", "population": 111355, "rank": 2 },
+    { "name": "Vacoas", "population": 110000, "rank": 3 },
+    { "name": "Curepipe", "population": 84200, "rank": 4 },
+    { "name": "Quatre Bornes", "population": 80961, "rank": 5 }
+  ]
+}
