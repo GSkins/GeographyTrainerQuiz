@@ -1,0 +1,12 @@
+{
+  "country": "Saint Vincent and the Grenadines",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kingstown", "population": 24518, "rank": 1 },
+    { "name": "Kingstown Park", "population": 17994, "rank": 2 },
+    { "name": "Georgetown", "population": 1700, "rank": 3 },
+    { "name": "Port Elizabeth", "population": 930, "rank": 4 },
+    { "name": "Chateaubelair", "population": 800, "rank": 5 }
+  ]
+}
