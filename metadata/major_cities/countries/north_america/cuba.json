@@ -1,0 +1,12 @@
+{
+  "country": "Cuba",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Havana", "population": 2163824, "rank": 1 },
+    { "name": "Santiago de Cuba", "population": 555865, "rank": 2 },
+    { "name": "Camagüey", "population": 347562, "rank": 3 },
+    { "name": "Holguín", "population": 319102, "rank": 4 },
+    { "name": "Guantánamo", "population": 272801, "rank": 5 }
+  ]
+}
