@@ -1,0 +1,12 @@
+{
+  "country": "Panama",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Panama City", "population": 880691, "rank": 1 },
+    { "name": "San Miguelito", "population": 315019, "rank": 2 },
+    { "name": "Tocumen", "population": 103177, "rank": 3 },
+    { "name": "David", "population": 89442, "rank": 4 },
+    { "name": "Las Cumbres", "population": 89000, "rank": 5 }
+  ]
+}
