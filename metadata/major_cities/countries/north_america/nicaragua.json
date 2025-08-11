@@ -1,0 +1,12 @@
+{
+  "country": "Nicaragua",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Managua", "population": 1055111, "rank": 1 },
+    { "name": "León", "population": 177270, "rank": 2 },
+    { "name": "Tipitapa", "population": 150597, "rank": 3 },
+    { "name": "Masaya", "population": 140721, "rank": 4 },
+    { "name": "Ciudad Sandino", "population": 130357, "rank": 5 }
+  ]
+}
