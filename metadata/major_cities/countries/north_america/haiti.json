@@ -1,0 +1,12 @@
+{
+  "country": "Haiti",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Port-au-Prince", "population": 987310, "rank": 1 },
+    { "name": "Carrefour", "population": 511345, "rank": 2 },
+    { "name": "Delmas", "population": 395260, "rank": 3 },
+    { "name": "Pétionville", "population": 376834, "rank": 4 },
+    { "name": "Gonaïves", "population": 324043, "rank": 5 }
+  ]
+}
