@@ -1,0 +1,12 @@
+{
+  "country": "Barbados",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bridgetown", "population": 98511, "rank": 1 },
+    { "name": "Speightstown", "population": 3634, "rank": 2 },
+    { "name": "Oistins", "population": 2285, "rank": 3 },
+    { "name": "Bathsheba", "population": 1765, "rank": 4 },
+    { "name": "Holetown", "population": 1350, "rank": 5 }
+  ]
+}
