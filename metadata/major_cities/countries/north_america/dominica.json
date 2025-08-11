@@ -1,0 +1,12 @@
+{
+  "country": "Dominica",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Roseau", "population": 16571, "rank": 1 },
+    { "name": "Portsmouth", "population": 3633, "rank": 2 },
+    { "name": "Marigot", "population": 2669, "rank": 3 },
+    { "name": "Berekua", "population": 2608, "rank": 4 },
+    { "name": "Mahaut", "population": 2369, "rank": 5 }
+  ]
+}
