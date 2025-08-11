@@ -1,0 +1,12 @@
+{
+  "country": "Trinidad and Tobago",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Chaguanas", "population": 101297, "rank": 1 },
+    { "name": "San Fernando", "population": 82997, "rank": 2 },
+    { "name": "Port of Spain", "population": 81142, "rank": 3 },
+    { "name": "Arima", "population": 65623, "rank": 4 },
+    { "name": "San Juan", "population": 53588, "rank": 5 }
+  ]
+}
