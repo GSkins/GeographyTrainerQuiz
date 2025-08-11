@@ -1,0 +1,12 @@
+{
+  "country": "Saint Kitts and Nevis",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Basseterre", "population": 12920, "rank": 1 },
+    { "name": "Fig Tree", "population": 2922, "rank": 2 },
+    { "name": "Market Shop", "population": 2568, "rank": 3 },
+    { "name": "Saint Paul's", "population": 2460, "rank": 4 },
+    { "name": "Middle Island", "population": 2332, "rank": 5 }
+  ]
+}
