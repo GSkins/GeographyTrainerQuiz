@@ -1,0 +1,12 @@
+{
+  "country": "Saint Lucia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Castries", "population": 20000, "rank": 1 },
+    { "name": "Bisee", "population": 12980, "rank": 2 },
+    { "name": "Vieux Fort", "population": 4574, "rank": 3 },
+    { "name": "Soufrière", "population": 2918, "rank": 4 },
+    { "name": "Dennery", "population": 2870, "rank": 5 }
+  ]
+}
