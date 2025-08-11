@@ -1,0 +1,12 @@
+{
+  "country": "Antigua and Barbuda",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Saint John's", "population": 22634, "rank": 1 },
+    { "name": "All Saints", "population": 3412, "rank": 2 },
+    { "name": "Liberta", "population": 2239, "rank": 3 },
+    { "name": "Potter's Village", "population": 2067, "rank": 4 },
+    { "name": "Bolans", "population": 1785, "rank": 5 }
+  ]
+}
