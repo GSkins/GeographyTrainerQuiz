@@ -1,0 +1,12 @@
+{
+  "country": "Costa Rica",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "San José", "population": 335007, "rank": 1 },
+    { "name": "Limón", "population": 63081, "rank": 2 },
+    { "name": "San Francisco", "population": 55923, "rank": 3 },
+    { "name": "Alajuela", "population": 47494, "rank": 4 },
+    { "name": "Liberia", "population": 45380, "rank": 5 }
+  ]
+}
