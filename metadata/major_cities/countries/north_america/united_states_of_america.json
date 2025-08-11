@@ -1,0 +1,12 @@
+{
+  "country": "United States of America",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "New York City", "population": 7936530, "rank": 1 },
+    { "name": "Los Angeles", "population": 3770958, "rank": 2 },
+    { "name": "Chicago", "population": 2611867, "rank": 3 },
+    { "name": "Houston", "population": 2324082, "rank": 4 },
+    { "name": "Phoenix", "population": 1675144, "rank": 5 }
+  ]
+}
