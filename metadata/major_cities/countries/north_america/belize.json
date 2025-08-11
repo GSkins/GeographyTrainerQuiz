@@ -1,0 +1,12 @@
+{
+  "country": "Belize",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Belize City", "population": 61461, "rank": 1 },
+    { "name": "San Ignacio", "population": 16812, "rank": 2 },
+    { "name": "Orange Walk", "population": 15298, "rank": 3 },
+    { "name": "Belmopan", "population": 13381, "rank": 4 },
+    { "name": "Dangriga", "population": 10750, "rank": 5 }
+  ]
+}
