@@ -1,0 +1,12 @@
+{
+  "country": "Mexico",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Mexico City", "population": 12294193, "rank": 1 },
+    { "name": "Iztapalapa", "population": 1815786, "rank": 2 },
+    { "name": "Ecatepec de Morelos", "population": 1655015, "rank": 3 },
+    { "name": "Guadalajara", "population": 1495182, "rank": 4 },
+    { "name": "Puebla", "population": 1434062, "rank": 5 }
+  ]
+}
