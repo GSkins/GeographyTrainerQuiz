@@ -1,0 +1,12 @@
+{
+  "country": "Grenada",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "St. George's", "population": 7500, "rank": 1 },
+    { "name": "Gouyave", "population": 3378, "rank": 2 },
+    { "name": "Grenville", "population": 2476, "rank": 3 },
+    { "name": "Victoria", "population": 2256, "rank": 4 },
+    { "name": "St. David's", "population": 1321, "rank": 5 }
+  ]
+}
