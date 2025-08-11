@@ -1,0 +1,12 @@
+{
+  "country": "El Salvador",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "San Salvador", "population": 525990, "rank": 1 },
+    { "name": "Soyapango", "population": 329708, "rank": 2 },
+    { "name": "Santa Ana", "population": 176661, "rank": 3 },
+    { "name": "San Miguel", "population": 161880, "rank": 4 },
+    { "name": "Mejicanos", "population": 160317, "rank": 5 }
+  ]
+}
