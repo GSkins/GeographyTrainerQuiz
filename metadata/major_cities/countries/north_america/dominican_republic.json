@@ -1,0 +1,12 @@
+{
+  "country": "Dominican Republic",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Santo Domingo", "population": 2201941, "rank": 1 },
+    { "name": "Santiago de los Caballeros", "population": 1200000, "rank": 2 },
+    { "name": "Santo Domingo Oeste", "population": 701269, "rank": 3 },
+    { "name": "Santo Domingo Este", "population": 700000, "rank": 4 },
+    { "name": "San Pedro de Macorís", "population": 217899, "rank": 5 }
+  ]
+}
