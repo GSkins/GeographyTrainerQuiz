@@ -1,0 +1,12 @@
+{
+  "country": "Honduras",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Tegucigalpa", "population": 850848, "rank": 1 },
+    { "name": "San Pedro Sula", "population": 489466, "rank": 2 },
+    { "name": "Choloma", "population": 139100, "rank": 3 },
+    { "name": "La Ceiba", "population": 130218, "rank": 4 },
+    { "name": "El Progreso", "population": 100810, "rank": 5 }
+  ]
+}
