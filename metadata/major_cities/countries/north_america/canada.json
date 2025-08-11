@@ -1,0 +1,12 @@
+{
+  "country": "Canada",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Toronto", "population": 2794356, "rank": 1 },
+    { "name": "Montreal", "population": 1762949, "rank": 2 },
+    { "name": "Calgary", "population": 1306784, "rank": 3 },
+    { "name": "Ottawa", "population": 1017449, "rank": 4 },
+    { "name": "Edmonton", "population": 1010899, "rank": 5 }
+  ]
+}
