@@ -1,0 +1,12 @@
+{
+  "country": "Bahamas",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Nassau", "population": 227940, "rank": 1 },
+    { "name": "Lucaya", "population": 46525, "rank": 2 },
+    { "name": "Freeport", "population": 26910, "rank": 3 },
+    { "name": "West End", "population": 12724, "rank": 4 },
+    { "name": "Cooper's Town", "population": 8413, "rank": 5 }
+  ]
+}
