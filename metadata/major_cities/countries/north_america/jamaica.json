@@ -1,0 +1,12 @@
+{
+  "country": "Jamaica",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Kingston", "population": 937700, "rank": 1 },
+    { "name": "New Kingston", "population": 583958, "rank": 2 },
+    { "name": "Spanish Town", "population": 145018, "rank": 3 },
+    { "name": "Portmore", "population": 102861, "rank": 4 },
+    { "name": "Montego Bay", "population": 82867, "rank": 5 }
+  ]
+}
