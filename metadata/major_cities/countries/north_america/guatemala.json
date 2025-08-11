@@ -1,0 +1,12 @@
+{
+  "country": "Guatemala",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Guatemala City", "population": 994938, "rank": 1 },
+    { "name": "Mixco", "population": 473080, "rank": 2 },
+    { "name": "Villa Nueva", "population": 406830, "rank": 3 },
+    { "name": "Petapa", "population": 141455, "rank": 4 },
+    { "name": "San Juan Sacatepéquez", "population": 136886, "rank": 5 }
+  ]
+}
