@@ -1,0 +1,12 @@
+{
+  "country": "Guyana",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Georgetown", "population": 235017, "rank": 1 },
+    { "name": "Linden", "population": 44690, "rank": 2 },
+    { "name": "New Amsterdam", "population": 35039, "rank": 3 },
+    { "name": "Anna Regina", "population": 12448, "rank": 4 },
+    { "name": "Bartica", "population": 11157, "rank": 5 }
+  ]
+}
