@@ -1,0 +1,12 @@
+{
+    "country": "Australia",
+    "category": "major_cities",
+    "question_type": "identify_cities",
+    "cities": [
+      { "name": "Sydney", "population": 5400000, "rank": 1 },
+      { "name": "Melbourne", "population": 5200000, "rank": 2 },
+      { "name": "Brisbane", "population": 2600000, "rank": 3 },
+      { "name": "Perth", "population": 2100000, "rank": 4 },
+      { "name": "Adelaide", "population": 1400000, "rank": 5 }
+    ]
+  }
