@@ -1,0 +1,12 @@
+{
+  "country": "Tuvalu",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Funafuti", "population": 5070, "rank": 1 },
+    { "name": "Asau", "population": 654, "rank": 2 },
+    { "name": "Lolua", "population": 565, "rank": 3 },
+    { "name": "Sawa", "population": 520, "rank": 4 },
+    { "name": "Vaiaku", "population": 516, "rank": 5 }
+  ]
+}
