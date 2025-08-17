@@ -1,0 +1,12 @@
+{
+  "country": "Suriname",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Paramaribo", "population": 223757, "rank": 1 },
+    { "name": "Lelydorp", "population": 18223, "rank": 2 },
+    { "name": "Brokopondo", "population": 14662, "rank": 3 },
+    { "name": "Nieuw Nickerie", "population": 13143, "rank": 4 },
+    { "name": "Moengo", "population": 7074, "rank": 5 }
+  ]
+}
