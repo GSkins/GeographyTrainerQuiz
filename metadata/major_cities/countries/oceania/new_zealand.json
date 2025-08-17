@@ -1,0 +1,12 @@
+{
+  "country": "New Zealand",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Auckland", "population": 1530500, "rank": 1 },
+    { "name": "Christchurch", "population": 400600, "rank": 2 },
+    { "name": "Wellington", "population": 208800, "rank": 3 },
+    { "name": "Hamilton", "population": 189700, "rank": 4 },
+    { "name": "Tauranga", "population": 161300, "rank": 5 }
+  ]
+}
