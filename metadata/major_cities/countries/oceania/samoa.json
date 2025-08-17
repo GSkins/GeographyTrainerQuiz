@@ -1,0 +1,12 @@
+{
+  "country": "Samoa",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Apia", "population": 37391, "rank": 1 },
+    { "name": "Vaitele", "population": 7299, "rank": 2 },
+    { "name": "Faleasiu", "population": 4260, "rank": 3 },
+    { "name": "Le'auva'a", "population": 3457, "rank": 4 },
+    { "name": "Vailele", "population": 3122, "rank": 5 }
+  ]
+}
