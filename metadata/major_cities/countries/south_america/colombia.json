@@ -1,0 +1,12 @@
+{
+  "country": "Colombia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Bogotá", "population": 7674366, "rank": 1 },
+    { "name": "Medellín", "population": 2280000, "rank": 2 },
+    { "name": "Cali", "population": 2170000, "rank": 3 },
+    { "name": "Barranquilla", "population": 1205000, "rank": 4 },
+    { "name": "Cartagena", "population": 952024, "rank": 5 }
+  ]
+}
