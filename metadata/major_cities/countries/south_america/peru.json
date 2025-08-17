@@ -1,0 +1,12 @@
+{
+  "country": "Peru",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Lima", "population": 11500000, "rank": 1 },
+    { "name": "Arequipa", "population": 1070000, "rank": 2 },
+    { "name": "Trujillo", "population": 805150, "rank": 3 },
+    { "name": "Cusco", "population": 513000, "rank": 4 },
+    { "name": "Iquitos", "population": 505000, "rank": 5 }
+  ]
+}
