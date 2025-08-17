@@ -1,0 +1,12 @@
+{
+  "country": "Paraguay",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Asunción", "population": 1482200, "rank": 1 },
+    { "name": "Ciudad del Este", "population": 320782, "rank": 2 },
+    { "name": "San Lorenzo", "population": 227876, "rank": 3 },
+    { "name": "Capiatá", "population": 198553, "rank": 4 },
+    { "name": "Lambaré", "population": 126377, "rank": 5 }
+  ]
+}
