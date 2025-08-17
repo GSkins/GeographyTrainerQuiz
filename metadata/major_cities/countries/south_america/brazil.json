@@ -1,0 +1,12 @@
+{
+  "country": "Brazil",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "São Paulo", "population": 11450000, "rank": 1 },
+    { "name": "Rio de Janeiro", "population": 6210000, "rank": 2 },
+    { "name": "Brasília", "population": 3000000, "rank": 3 },
+    { "name": "Salvador", "population": 2900000, "rank": 4 },
+    { "name": "Fortaleza", "population": 2700000, "rank": 5 }
+  ]
+}
