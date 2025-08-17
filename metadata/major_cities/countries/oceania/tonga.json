@@ -1,0 +1,12 @@
+{
+  "country": "Tonga",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Nuku'alofa", "population": 24310, "rank": 1 },
+    { "name": "Mua", "population": 5190, "rank": 2 },
+    { "name": "Neiafu", "population": 3965, "rank": 3 },
+    { "name": "Haveloloto", "population": 3537, "rank": 4 },
+    { "name": "War", "population": 3081, "rank": 5 }
+  ]
+}
