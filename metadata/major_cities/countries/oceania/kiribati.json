@@ -1,0 +1,12 @@
+{
+    "country": "Kiribati",
+    "category": "major_cities",
+    "question_type": "identify_cities",
+    "cities": [
+      { "name": "South Tarawa", "population": 47946, "rank": 1 },
+      { "name": "Taburao", "population": 4321, "rank": 2 },
+      { "name": "Bonriki", "population": 4005, "rank": 3 },
+      { "name": "Buariki", "population": 3313, "rank": 4 },
+      { "name": "Tamara", "population": 3031, "rank": 5 }
+    ]
+  }
