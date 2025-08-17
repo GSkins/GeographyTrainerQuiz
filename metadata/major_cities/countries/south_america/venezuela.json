@@ -1,0 +1,12 @@
+{
+  "country": "Venezuela",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Caracas", "population": 5576938, "rank": 1 },
+    { "name": "Maracaibo", "population": 4163670, "rank": 2 },
+    { "name": "Valencia", "population": 2585202, "rank": 3 },
+    { "name": "Barquisimeto", "population": 1600000, "rank": 4 },
+    { "name": "Maracay", "population": 1302000, "rank": 5 }
+  ]
+}
