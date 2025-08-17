@@ -1,0 +1,12 @@
+{
+  "country": "Bolivia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Santa Cruz de la Sierra", "population": 1364389, "rank": 1 },
+    { "name": "Cochabamba", "population": 900414, "rank": 2 },
+    { "name": "La Paz", "population": 812799, "rank": 3 },
+    { "name": "Sucre", "population": 224838, "rank": 4 },
+    { "name": "Oruro", "population": 208684, "rank": 5 }
+  ]
+}
