@@ -1,0 +1,12 @@
+{
+  "country": "Papua New Guinea",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Port Moresby", "population": 283733, "rank": 1 },
+    { "name": "Lae", "population": 76255, "rank": 2 },
+    { "name": "Arawa", "population": 40266, "rank": 3 },
+    { "name": "Mount Hagen", "population": 33623, "rank": 4 },
+    { "name": "Popondetta", "population": 28198, "rank": 5 }
+  ]
+}
