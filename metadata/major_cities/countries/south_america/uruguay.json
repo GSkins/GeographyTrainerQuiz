@@ -1,0 +1,12 @@
+{
+  "country": "Uruguay",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Montevideo", "population": 1270737, "rank": 1 },
+    { "name": "Salto", "population": 99823, "rank": 2 },
+    { "name": "Paysandú", "population": 73249, "rank": 3 },
+    { "name": "Las Piedras", "population": 69682, "rank": 4 },
+    { "name": "Rivera", "population": 64631, "rank": 5 }
+  ]
+}
