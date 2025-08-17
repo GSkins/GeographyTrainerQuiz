@@ -1,0 +1,12 @@
+{
+  "country": "Nauru",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Denigomodu", "population": 1700, "rank": 1 },
+    { "name": "Mining", "population": 1400, "rank": 2 },
+    { "name": "Ivo", "population": 1300, "rank": 3 },
+    { "name": "Buada", "population": 1000, "rank": 4 },
+    { "name": "Boé", "population": 970, "rank": 5 }
+  ]
+}
