@@ -1,0 +1,12 @@
+{
+    "country": "Fiji",
+    "category": "major_cities",
+    "question_type": "identify_cities",
+    "cities": [
+      { "name": "Suva", "population": 101166, "rank": 1 },
+      { "name": "Lautoka", "population": 74841, "rank": 2 },
+      { "name": "Nasinu", "population": 73673, "rank": 3 },
+      { "name": "Nausori", "population": 57866, "rank": 4 },
+      { "name": "Nadi", "population": 48164, "rank": 5 }
+    ]
+  }
