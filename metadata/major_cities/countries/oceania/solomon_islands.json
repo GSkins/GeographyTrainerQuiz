@@ -1,0 +1,12 @@
+{
+  "country": "Solomon Islands",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Honiara", "population": 64609, "rank": 1 },
+    { "name": "Auki", "population": 7785, "rank": 2 },
+    { "name": "Gizo", "population": 6154, "rank": 3 },
+    { "name": "Noro", "population": 5000, "rank": 4 },
+    { "name": "Buala", "population": 2813, "rank": 5 }
+  ]
+}
