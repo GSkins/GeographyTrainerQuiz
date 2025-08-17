@@ -1,0 +1,12 @@
+{
+  "country": "Micronesia",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Weno", "population": 13856, "rank": 1 },
+    { "name": "Palikir", "population": 7000, "rank": 2 },
+    { "name": "Colonia", "population": 6300, "rank": 3 },
+    { "name": "Colony", "population": 6074, "rank": 4 },
+    { "name": "Tofol", "population": 2591, "rank": 5 }
+  ]
+}
