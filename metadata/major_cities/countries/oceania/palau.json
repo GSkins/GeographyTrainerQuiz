@@ -1,0 +1,12 @@
+{
+  "country": "Palau",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Koror", "population": 9524, "rank": 1 },
+    { "name": "Airai", "population": 2020, "rank": 2 },
+    { "name": "Meyuns", "population": 1631, "rank": 3 },
+    { "name": "Ngetkib", "population": 630, "rank": 4 },
+    { "name": "Kloulklubed", "population": 454, "rank": 5 }
+  ]
+}
