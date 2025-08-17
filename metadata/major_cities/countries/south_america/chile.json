@@ -1,0 +1,12 @@
+{
+  "country": "Chile",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Santiago", "population": 4837295, "rank": 1 },
+    { "name": "Puente Alto", "population": 510417, "rank": 2 },
+    { "name": "Antofagasta", "population": 309832, "rank": 3 },
+    { "name": "Viña del Mar", "population": 294551, "rank": 4 },
+    { "name": "Valparaíso", "population": 282448, "rank": 5 }
+  ]
+}
