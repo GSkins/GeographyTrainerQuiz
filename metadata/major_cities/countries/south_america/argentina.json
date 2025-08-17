@@ -1,0 +1,12 @@
+{
+  "country": "Argentina",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Buenos Aires", "population": 13076300, "rank": 1 },
+    { "name": "Córdoba", "population": 1428214, "rank": 2 },
+    { "name": "Rosario", "population": 1173533, "rank": 3 },
+    { "name": "Mendoza", "population": 876884, "rank": 4 },
+    { "name": "San Miguel de Tucumán", "population": 781023, "rank": 5 }
+  ]
+}
