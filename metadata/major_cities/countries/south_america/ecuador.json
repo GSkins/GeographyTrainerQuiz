@@ -1,0 +1,12 @@
+{
+  "country": "Ecuador",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Guayaquil", "population": 1952029, "rank": 1 },
+    { "name": "Quito", "population": 1399814, "rank": 2 },
+    { "name": "Cuenca", "population": 276964, "rank": 3 },
+    { "name": "Santo Domingo de los Colorados", "population": 200421, "rank": 4 },
+    { "name": "Machala", "population": 198123, "rank": 5 }
+  ]
+}
