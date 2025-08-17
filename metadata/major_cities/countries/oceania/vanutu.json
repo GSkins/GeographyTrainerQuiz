@@ -1,0 +1,12 @@
+{
+  "country": "Vanuatu",
+  "category": "major_cities",
+  "question_type": "identify_cities",
+  "cities": [
+    { "name": "Port Vila", "population": 47510, "rank": 1 },
+    { "name": "Luganville", "population": 13799, "rank": 2 },
+    { "name": "Port Olry", "population": 2897, "rank": 3 },
+    { "name": "Mele", "population": 2484, "rank": 4 },
+    { "name": "Norsup", "population": 2374, "rank": 5 }
+  ]
+}
