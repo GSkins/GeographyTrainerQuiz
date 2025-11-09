@@ -1,0 +1,76 @@
+{
+  "sources": {
+    "Pixabay": {
+      "license": "Pixabay License",
+      "attribution_required": false,
+      "attribution_text": "Images from Pixabay (no attribution required)"
+    },
+    "FreeImages": {
+      "license": "FreeImages Standard License",
+      "attribution_required": true,
+      "attribution_text": "Photos via FreeImages — credit to respective photographers"
+    },
+    "WikimediaCommons": {
+      "license": "Various free licenses (Public Domain, CC BY, CC BY-SA)",
+      "attribution_required": true,
+      "attribution_text": "Images via Wikimedia Commons — credit to respective authors and licenses"
+    }
+  },
+  "flag_images": [ 
+  ],
+  "tree_images_africa": [
+    { "id": "baobab_1", "source":  "Pixabay"},
+    { "id": "baobab_2", "source":  "Pixabay"},
+    { "id": "baobab_3", "source":  "Pixabay"},
+    { "id": "marula_1", "source": "WikimediaCommons", "author": "Bernard DUPONT", "license": "CC BY-SA 2.0" },
+    { "id": "marula_2", "source": "WikimediaCommons", "author": "Pemba.mpimaji", "license": "CC BY-SA 4.0" },
+    { "id": "marula_3", "source": "WikimediaCommons", "author": "JMK", "license": "CC BY-SA 4.0" },
+    { "id": "khaya_anthotheca_1", "source": "WikimediaCommons", "author": "Andrew massyn", "license": "Public Domain" },
+    { "id": "khaya_senegalensis_1", "source": "WikimediaCommons", "author": "ForestGump2", "license": "CC BY-SA 4.0" },
+    { "id": "khaya_ivorensis_1", "source": "WikimediaCommons", "author": "PedroLottiC.Dias", "license": "CC BY-SA 4.0" },
+    { "id": "milicia_excelsa_1", "source": "WikimediaCommons", "author": "Fenrith", "license": "CC BY 3.0" },
+    { "id": "milicia_excelsa_2", "source": "WikimediaCommons", "author": "Christleo", "license": "CC BY-SA 4.0" },
+    { "id": "milicia_excelsa_3", "source": "WikimediaCommons", "author": "Christleo", "license": "CC BY-SA 4.0" },
+    { "id": "fever_tree_1", "source": "WikimediaCommons", "author": "Olga Ernst", "license": "CC BY-SA 4.0" },
+    { "id": "fever_tree_2", "source": "WikimediaCommons", "author": "Nevit Dilmen (talk)", "license": "CC BY-SA 3.0" },
+    { "id": "fever_tree_3", "source": "WikimediaCommons", "author": "Bev Oscroft", "license": "CC BY-SA 3.0" },
+    { "id": "camel_thorn_1", "source": "WikimediaCommons", "author": "Robur.q", "license": "CC BY-SA 4.0" },
+    { "id": "camel_thorn_2", "source": "WikimediaCommons", "author": "SAplants", "license": "CC BY-SA 4.0" },
+    { "id": "camel_thorn_3", "source": "WikimediaCommons", "author": "-", "license": "CC0 1.0" },
+    { "id": "yellowwood_1", "source": "WikimediaCommons", "author": "Abu Shawka", "license": "Public Domain" },
+    { "id": "yellowwood_2", "source": "WikimediaCommons", "author": "Ewen Cameron", "license": "CC BY 4.0" },
+    { "id": "date_palm_1", "source": "WikimediaCommons", "author": "MPF", "license": "CC BY-SA 3.0" },
+    { "id": "date_palm_2", "source": "WikimediaCommons", "author": "Alejandro Bayer Tamayo", "license": "CC BY-SA 2.0" },
+    { "id": "date_palm_3", "source": "WikimediaCommons", "author": "Billjones94", "license": "CC BY-SA 4.0" },
+    { "id": "sycamore_fig_1", "source": "WikimediaCommons", "author": "spellecchias", "license": "CC0 1.0" },
+    { "id": "sycamore_fig_2", "source": "WikimediaCommons", "author": "Shaun Swanepoel", "license": "CC BY 4.0" },
+    { "id": "sycamore_fig_3", "source": "WikimediaCommons", "author": "Riana Fourie", "license": "CC0 1.0" },
+    { "id": "shea_tree_1", "source": "WikimediaCommons", "author": "Chiny Linda", "license": "CC0 1.0" },
+    { "id": "shea_tree_2", "source": "WikimediaCommons", "author": "Deishini Mariam", "license": "CC BY-SA 4.0" },
+    { "id": "shea_tree_3", "source": "WikimediaCommons", "author": "Ji-Elle", "license": "CC BY-SA 4.0" },
+    { "id": "african_ebony_1", "source": "WikimediaCommons", "author": "JMK", "license": "CC BY-SA 3.0" },
+    { "id": "african_ebony_2", "source": "WikimediaCommons", "author": "Mammalwatcher", "license": "CC0 1.0" },
+    { "id": "african_ebony_3", "source": "WikimediaCommons", "author": "Piet Grobler", "license": "CC BY-SA 3.0" },
+    { "id": "sausage_tree_1", "source": "WikimediaCommons", "author": "Bjørn Christian Tørrissen", "license": "CC BY-SA 3.0" },
+    { "id": "sausage_tree_2", "source": "WikimediaCommons", "author": "Jerzy Strzelecki", "license": "CC BY-SA 3.0" },
+    { "id": "sausage_tree_3", "source": "WikimediaCommons", "author": "Bernard DUPONT", "license": "CC BY-SA 2.0" },
+    { "id": "quiver_tree_1", "source": "WikimediaCommons", "author": "Harald Süpfle", "license": "CC BY-SA 2.5" },
+    { "id": "quiver_tree_2", "source": "WikimediaCommons", "author": "Lidine Mia", "license": "CC BY-SA 4.0" },
+    { "id": "quiver_tree_3", "source": "WikimediaCommons", "author": "Ragnhild&Neil Crawford", "license": "CC BY-SA 2.0" },
+    { "id": "leadwood_1", "source": "WikimediaCommons", "author": "Ragnhild&Neil Crawford", "license": "CC BY-SA 2.0" },
+    { "id": "leadwood_2", "source": "WikimediaCommons", "author": "JMK", "license": "CC BY-SA 3.0" },
+    { "id": "leadwood_3", "source": "WikimediaCommons", "author": "Marthie Scheepers", "license": "CC BY-SA 3.0" },
+    { "id": "african_olive_1", "source": "WikimediaCommons", "author": "Abu Shawka", "license": "Public Domain" },
+    { "id": "african_olive_2", "source": "WikimediaCommons", "author": "BotBln", "license": "CC BY-SA 3.0" },
+    { "id": "umbrella_thorn_1", "source": "WikimediaCommons", "author": "Diego Delso", "license": "CC BY-SA 4.0" },
+    { "id": "umbrella_thorn_2", "source": "WikimediaCommons", "author": "Krzysztof Ziarnek, Kenraiz", "license": "CC BY-SA 4.0" },
+    { "id": "umbrella_thorn_3", "source": "WikimediaCommons", "author": "Bernard DUPONT", "license": "CC BY-SA 2.0" },
+    { "id": "african_blackwood_1", "source": "WikimediaCommons", "author": "Marie-Elisabeth GORGE", "license": "Public Domain" },
+    { "id": "african_blackwood_2", "source": "WikimediaCommons", "author": "JMK", "license": "CC BY-SA 3.0" },
+    { "id": "mopane_1", "source": "WikimediaCommons", "author": "Roger Culos", "license": "CC BY-SA 3.0" },
+    { "id": "mopane_2", "source": "WikimediaCommons", "author": "-", "license": "CC0 1.0" },
+    { "id": "mopane_3", "source": "WikimediaCommons", "author": "-", "license": "CC0 1.0" },
+    { "id": "red_stinkwood_1", "source": "WikimediaCommons", "author": "KUBWIMANA Bienvenu", "license": "CC BY-SA 4.0" },
+    { "id": "red_stinkwood_2", "source": "WikimediaCommons", "author": "Rosemary Harrison", "license": "CC BY-SA 4.0" }
+  ]
+}
